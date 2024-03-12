@@ -4,13 +4,15 @@ Friendship: 8 hearts = 2000, 10 hearts = 2500
 community/qi orders: resets on monday
 friendship: resets on sunday
 foraging: resets on sunday (max items on sat)
+cinema: every 7 days
+hardwood: daily
 
 krobus/leo/willy: cooking (cheese, mayo, etc)
 rest: salad
 
-=======================================================
+==============================================================================================================
 
-TV: 7 Winter+
+TV: Spring 14 Y2 (incl)
 
 goals: gold, friendship/marriage, artifacts, crafting, cooking
 
@@ -28,15 +30,12 @@ artifacts: 9
 minerals: 16
 walnuts: birdie, journal #10
 
-=======================================================
-
-// DONE: spring, summer, fall, winter, festivals, bundles, poly, fishing, cooking
-// TODO: shipping, crafting    
+==============================================================================================================
 
 Spring
 ------
 // Egg Festival (Spring 13): buy Strawberry seeds // Y1: skip unless shipping
-// Flower Dance (Spring 24): 250 Friendship (requires 4+ hearts), buy Tub o' Flowers recipe  // Y1: skip
+// Flower Dance (Spring 24): 250 Friendship (requires 4+ hearts), buy Tub o' Flowers recipe  // Y1: skip, Y2: rarecrow (2.5kg)
 
 -Wild Horseradish: bundle, ship, craft, cook
 -Daffodil: bundle, ship, craft
@@ -50,10 +49,10 @@ Spring
 
 Blue Jazz: -ship, cook // 7 days
 Cauliflower: -bundle, -ship, -poly, cook // 12 days
-Garlic: -ship, -poly, craft, cook(2) // 4 days // Y1: Merchant/drop rng
+Garlic: -ship, -poly, craft(10), cook(2) // 4 days // Y1: Merchant/drop rng
 Kale: -ship, -poly, cook(2) // 6 days
 Parsnip: -bundle(1+5g), -ship, -poly, cook(2) // 4 days // Y1: skip quality bundle
-Potato: -bundle, -ship, -poly, cook(1x2) // 6 days // keep hashbrowns(2)
+Potato: -bundle, -ship, -poly, cook(1x2) // 6 days // Y2: keep hashbrowns(2)
 Rhubarb: -ship, -poly, cook // 13 days, oasis // Y1: greenhouse (improbable to get to Desert in time)
 -Tulip: ship // 6 days
 -Unmilled Rice: ship // 6 days, don't mill
@@ -62,12 +61,15 @@ Green Bean: -bundle, -ship, -poly, cook(2) // 10/3 days
 
 -Legend: -catch // Rain, Mountain, L10 Fishing // Y1: rain rng
 
+==============================================================================================================
+
 Summer
 ------
 // Luau (Summer 11): 120 global Friendship
 // Dance of the Moonlight Jellies (Summer 28) // Y1: skip
-// Farming Level 10 mid-Summer
 // Summer 12-14 = Beach foraging / tide pool skip
+
+// Y1: Farming Level 10 mid-Summer
 // Y1: buy 2 rare seeds from Merchant
 // Y1: buy/drop duck feather (Merchant), rabbit foot (Merchant/Skull), dinosaur egg (Skull) for bundles
 // Y1: Robin not available to start construction on Tuesdays (2/9/16/23) and Summer 18 
@@ -80,13 +82,14 @@ Grape: -bundle, -ship, -poly, craft // Y1 poly: plant starters in Fall if short
 Spice Berry: -bundle, -ship, craft
 Sweet Pea: -bundle, -ship, craft
 Fiddlehead Fern: -bundle, -ship, cook // Woods/Skull
-Rainbow Shell: -ship // Beach
+Rainbow Shell: -ship // Beach (Saturday)
+-Sea Urchin: ship, bundle // Summer 12-14
 
-// profit: starfruit (oasis) > blueberry
+// profit: Starfruit (Oasis) > Blueberry
 // start planting remaining crops by Summer 14 
 
-Apple: -bundle(4), -ship, cook // Summer 7
--Pomegranate: bundle(2), ship // Summer 7
+Apple: -bundle(4), -ship, cook // Y1: Summer 7
+-Pomegranate: bundle(2), ship // Y1: Summer 7
 
 -Starfruit: ship, poly // 13 days // Y1: Summer 1 (Deluxe Speed-Gro) for Luau
 Melon: -bundle(1+5g), -ship, -poly, cook(2) // 12 days
@@ -95,40 +98,44 @@ Radish: -ship, -poly, cook(2) // 6 days
 -Summer Spangle: ship // 8 days
 Blueberry: -bundle, -ship, -poly, cook(2) // 13 days
 -Coffee Bean: ship, poly // 10/2 days (4 each) // poly: Summer 12
-Corn: -bundle(1+5g), -ship, -poly, cook(1x2) // 14 days // keep tortilla(2)
+Corn: -bundle(1+5g), -ship, -poly, cook(1x2) // 14 days // Y2: keep tortilla(2)
 -Hops: ship(2), poly // 11 days // Y1 ship: pale ale (Winter 15)
 Hot Pepper: -bundle, -ship, -poly, cook(3) // 5 days
 Tomato: -bundle, -ship, -poly, cook(8) // 11 days
 Red Cabbage: -bundle, -ship, -poly, cook(3) // 9 days (Skull/Merchant) // Y1: Fall 5
 
 Chickens(2): Large White/Brown Egg (11 days) // -bundle(2), -ship(5), cook(8+2) // Y1: ship Mayo
-Chickens: // Y1: Summer 24, ship: mayo // keep fried egg, omelet, pancakes
+Chickens: // Y1: Summer 24, ship: mayo // Y2: keep fried egg, omelet, pancakes
 Cow: Large Milk (13 days) // -bundle, -ship(3), cook(12+3) // Y1: Summer 22, ship: Cheese
 -Goat: Large Goat Milk (17 days) // bundle, ship(3) // Y1: Summer 18, ship: Goat Cheese
 -Sheep: Wool (16 days) // bundle, ship // Y1: Summer 19
-Pig: Truffle (20 days) // -bundle, -ship(2) // Y1: Summer 22, skip artisan bundle, ship: Truffle Oil
+Pig: Truffle (20 days) // -bundle, -ship(2), craft // Y1: Summer 22, skip artisan bundle, ship/craft: Truffle Oil
 
 -Sturgeon(5): catch, bundle // Mountain, Day
 -Caviar: bundle, ship(2) // ~17 days // Y1: Summer 27, ship: sturgeon roe
 
--Sea Urchin: ship, bundle // Summer 12-14
 -Pufferfish: catch, bundle // Ocean, 12pm-4pm
-Sunfish: -catch, -bundle, cook // River, Day
 Flounder: -catch, cook // Ocean, Day
 Tuna: -catch, -bundle, cook // Ocean, Day
-Rainbow Trout: -catch, cook // River, Day
 -Octopus: catch // Ocean, Morning
 -Red Snapper: catch, bundle // Ocean, Day, Rain
+
+Sunfish: -catch, -bundle, cook // River, Day
+Rainbow Trout: -catch, cook // River, Day
 -Dorado: catch // River, Day
+
 -Crimsonfish: catch // Ocean (Eastern Pier)
+
+==============================================================================================================
 
 Fall
 ----
-// Stardew Valley Fair (Fall 16) // Y1: play games for 2000 tokens to get stardrop
-// Spirit's Eve (Fall 27) // Y1: buy Jack-O-Lantern recipe
-// Artisan: Cheese, Goat Cheese // Apple, Pomegranate, Cloth (Skull), Honey (Oasis/Friday)
+// Stardew Valley Fair (Fall 16) // Y1: buy stardrop (2000), rarecrow(800)
+// Spirit's Eve (Fall 27) // Y1: buy Jack-O-Lantern recipe, rarecrow(5kg)
+
 // Y1: Quality Crops(3x5/Gold): 15-20 crops with quality fertilizer (fish + sap + L9 farming) for gold bundle or 40-50 without
 // Y1: Artisan Fall 7, All remaining bundles: Fall 14, 
+// Y1 Artisan: Cheese, Goat Cheese // Apple, Pomegranate, Cloth, Honey
 // Y1: plant Yam + Pumpkin Fall 1 w/ Deluxe Speed-Gro + Agriculturalist (greenhouse)
 
 Wild Plum: -bundle, -ship, cook(2), craft
@@ -163,11 +170,15 @@ Fairy Rose: -ship, craft // 12 days // highest value honey (ginger island)
 Cranberries: -ship, -poly, cook(4) // 7 days
 Pumpkin: -bundle(1+5g), -ship, -poly, cook(3), craft // 13 days
 Yam: -bundle, -ship, -poly, cook(2) // 10 days
+Ancient Fruit: -bundle, -ship // 28 days (Greenhouse) // Y1: Fall 17 (skip bundle)
 
 Maple Syrup: -bundle(2), -ship, cook, craft // Y1: Fall 5 (skip exotic bundle)
 Oak Resin: -bundle(2), -ship, craft(2) // Y1: Fall 6 (skip exotic bundle)
 -Wine: bundle(2), ship // Y1: Fall 7 // Quality Wine = Resort
 Cloth: -bundle, -ship // Skull // Y1: Fall 7
+Honey: -bundle, -ship, craft // Oasis/Friday // Y1: Fall 7
+Tea Leaves: -ship(2) // 22-28 Fall (Caroline 2 hearts) // Y1: Bulletin Board, ship: Green Tea
+Battery Pack: -ship, craft(7+5) // Skull/Lightning Rod // Y1: Fall 14, need 5 for boat repair
 
 -Duck: Egg (13 days) // bundle, ship(2) // Y1: skip animal bundle, ship: Mayo
 -Duck(2): Feather (23 days) // bundle, ship // Y1: Fall 25 (Coop)
@@ -176,29 +187,34 @@ Cloth: -bundle, -ship // Skull // Y1: Fall 7
 -Rabbit: // Y1: buy/drop 1st foot (Merchant/Skull) for bundle (Fall 14)
 -Dinosaur: Egg (25 days) // bundle, ship (mayo) // Y1: 2 x drop (Skull) for bundle (Fall 16) + shipping (Winter 17)
 
--Anchovy: catch // Ocean
--Smallmouth Bass: catch // Town/Forest
--Catfish: catch, bundle // Rain, River
 Eel: -catch, -bundle, cook(2) // Rain, Evening, Ocean
--Shad: catch, bundle // Rain, River
 -Tilaplia: catch, bundle // Ocean, Day
--Tiger Trout: catch, bundle // River, Day
 Sardine: -catch, -bundle, cook(2) // Ocean, Day
+-Super Cucumber: catch // Ocean, Evening
+-Anchovy: catch // Ocean
+
+-Catfish: catch, bundle // Rain, River
+-Shad: catch, bundle // Rain, River
+-Tiger Trout: catch, bundle // River, Day
+-Walleye: catch, bundle // River, Afternoon/Evening, Rain
+Bream: -catch, -bundle, cook // River, Evening
+
 Largemouth Bass: -catch, -bundle, cook // Mountain, Day
 Carp: -catch, -bundle, cook(4) // Mountain
 -Bullhead: catch, bundle // Mountain
--Walleye: catch, bundle // River, Afternoon/Evening, Rain
-Bream: -catch, -bundle, cook // River, Evening
--Super Cucumber: catch // Ocean, Evening
+
 Salmon: -catch, cook // River, Day
--Angler: catch // Town (Plank Bridge)
--Sandfish: catch, bundle // Desert, Day
 -Chub: catch, bundle // River
+
+-Angler: catch // Town (Plank Bridge)
+-Smallmouth Bass: catch // Town/Forest
+
+-Sandfish: catch, bundle // Desert, Day
 -Woodskip: catch, bundle // Secret Woods
 -Void Salmon: catch, bundle // Witch's Swamp
 
-Clam: -ship, -bundle, craft(11), cook // Beach
-Coral: -ship, craft(12) // Beach (Tide)
+Clam: -ship, -bundle, craft(1+10), cook // Beach
+Coral: -ship, craft(3+10) // Beach (Tide)
 -Cockle: -catch, -bundle // Beach
 Mussel: -catch, -bundle, cook // Beach
 -Oyster: -catch, -bundle // Beach
@@ -206,63 +222,98 @@ Mussel: -catch, -bundle, cook // Beach
 Lobster: -catch, -bundle, cook // Ocean
 Crab: -catch, -bundle, cook // Ocean
 Shrimp: -catch, -bundle, cook(2) // Ocean
-Crayfish: -catch, -bundle, cook // River
 
+Crayfish: -catch, -bundle, cook // River
 Snail: -catch, -bundle, cook // River
 Perwinkle: -catch, -bundle, cook(2) // River
 
+==============================================================================================================
+
 Winter
-----
-// Festival of Ice (8 Winter) // Y1: skip
+------
+// Festival of Ice (8 Winter) // Y1: buy rarecrow (5kg)
 // Night Market (15-17 Winter) // Y1: submarine fishing
 // Feast of the Winter Star (25 Winter) // Y1: 5x Friendship secret santa (18 Winter)
 
 Holly: -ship // Y1: Winter 1 (last pre-ginger shipping item)
 
 -Herring: catch // Ocean
--Halibut: catch // Ocean, Morning/Evening
-Midnight Carp: -catch, cook // Lake, Late Evening
--Perch: catch // River
--Pike: catch // River
 -Red Mullet: catch // Ocean, Day
 Sea Cucumber: -catch, cook // Ocean, Day
 -Albacore: catch // Ocean, Morning/Evening
+-Halibut: catch // Ocean, Morning/Evening
+Squid: -catch, cook // Ocean, Evening
+
+Midnight Carp: -catch, cook // Mountain, Late Evening
+
+-Perch: catch // River
+-Pike: catch // River
 -Perch: catch // River
 -Lingcod: catch // River
-Squid: -catch, cook // Ocean, Evening
+
 -Glacierfish: -catch // Forest Island
 -Midnight Squid: catch // Submarine (15-17 Winter)
 -Spook Fish: catch // Submarine (15-17 Winter)
 -Blobfish: catch // Submarine (15-17 Winter)
 
-=======================================================
+==============================================================================================================
+
+Ginger Island
+-------------
+Pineapple: -ship, cook
+Taro Root: -ship, cook(4)
+Ginger: -ship, cook(3), craft
+Banana: -ship, cook, craft(10)
+Mango: -ship, cook
+Ostrich Egg: -ship // Journal #10 // Y1: only need 1
+Radioactive Ore/Bar: -ship(2), craft(2/2) // Challenge
+Cinder Shard: -ship, craft(20) // Volcano
+-Magma Cap: ship // Volcano
+Dragon Tooth: craft(1+10) // not shipped
+
+-Stingray: catch // Pirate Cove
+-Lionfish: catch // 
+-Blue Discus: catch // North/West
 
 Non-Seasonal
 ------------
 // Y1: Some lead time required
-Juice (any): -bundle, -ship // Y1: Winter 13, skip bundle
-Jelly (any): -bundle, -ship // Y1: Winter 14, skip bundle
-Pickle (any): -ship // Y1: Winter 14, skip bundle
-Aged Roe (any): -ship(2) // Y1: Winter 13, ship: roe
-Pine Tar: -bundle, -ship, craft(3) // Y1: Winter 11 (skip bundle)
+Juice (any): -bundle, -ship // Y1: Winter 13 (skip bundle)
+Jelly (any): -bundle, -ship // Y1: Winter 14 (skip bundle)
+Pickle (any): -ship // Y1: Winter 14 (skip bundle)
+Aged Roe (any): -ship(2) // Y1: Winter 13, ship: Roe
+Pine Tar: -bundle, -ship, craft(7) // Y1: Winter 11 (skip bundle)
 
 // Y1: Complete any time by Winter 17
-Cave Carrot: -ship, -bundle, cook(5) // Mines
-Coconut: -ship, -bundle, cook(3) // Desert
+Coconut: -ship, -bundle, cook(3), craft(1+10) // Desert/Ginger Island
 Cactus Fruit: -ship, -bundle, craft(10) // Desert
-Sap: -ship, craft(81) // Trees
-Prismatic Shard: -bundle, -ship, -museum // other non-crafting uses
-Void Egg: -ship
-Void Mayo: -ship, cook
-Copper Ore/Bar: -ship
-Iron Ore/Bar: -ship
-Gold Ore/Bar: -ship
-Iridium Ore/Bar: -ship
-Quartz: donate
-Refined Quartz: -ship
-Honey: -bundle, -ship, craft // Oasis/Friday
+Cave Carrot: -ship, -bundle, cook(5)
+Sap: -ship, craft(81)
+Fiber: -ship, craft(279) // junimo huts
+Clay: -ship, craft(9)
+
 Mead: -ship // Resort
 Beer: -ship // Saloon
+Void Egg: -ship
+Void Mayo: -ship, cook
+
+Coal: -ship, craft(95) // smelting, bombs
+Copper Ore/Bar: -ship(2), craft(28/16)
+Iron Ore/Bar: -ship(2), craft(4/37) // bombs
+Gold Ore/Bar: -ship(2), craft(4/29)
+Iridium Ore/Bar: -ship(2), craft(5/17+45)
+Quartz/Fire Quartz: -bundle(2), craft(0/1) // not shipped
+Refined Quartz: -ship, craft(25) // Solar Panel, Lightning Rod, Quality Sprinkler
+Prismatic Shard: -bundle, -ship, -museum // other non-crafting uses
+
+Bug Meat: -ship, craft(44)
+Slime: -bundle, -ship, craft(220)
+Bat Wing: -bundle, -ship, craft(40)
+Solar Essence: -bundle, -ship, craft(83)
+Void Essence: -bundle, -ship, craft(51)
+Squid Ink: -ship, cook(2)
+Bone Fragment: -ship, craft(128+30) // Banana Pudding recipe
+Wood/Stone/Hardwood: -ship(3), craft(...)
 
 -Stonefish: catch // Mines(20)
 -Ice Pip: catch // Mines(60)
@@ -274,28 +325,26 @@ White Algae: -catch, cook(2) // Mines/Sewers
 -Mutant Carp: catch // Sewers
 -Slimejack: catch // Mutant Bug Lair
 
+Crafting (Not shipped)
+----------------------
+Diamond: craft(3) 
+Frozen Tear: craft(10) 
+Acorn/Maple Seed/Pine Cone: craft
+Marble: craft
+Aquamarine: -bundle, craft
+Earth Crystal: craft(11)
+Dwarf Gadget: craft
+
+==============================================================================================================
+
 Mushroom Cave
 -------------
-Produces 6 items daily (2-12% for non-common mushrooms)
+// Produces 6 items daily (2-12% for non-common mushrooms)
 Red Mushroom: -bundle(2), -ship, craft
 Purple Mushroom: -bundle(2), -ship, craft // uncommon
 Common Mushroom: -bundle(2), -ship, craft, cook(3)
 Chanterelle: -ship, craft
 Morel: -bundle, -ship, cook, craft // uncommon
-
-Ginger Island
--------------
-Pineapple: -ship, cook
-Taro Root: -ship, cook(4)
-Ginger: -ship, cook(3)
-Banana: -ship, cook 
-Mango: -ship, cook
-Ostrich Egg: -ship // Journal #10 // Y1: only need 1
-Radioactive Ore/Bar: -ship
-
--Stingray: catch // Pirate Cove
--Lionfish: catch // 
--Blue Discus: catch // North/West
 
 Merchant
 --------
@@ -307,14 +356,12 @@ Duck Feather // Y1 bundle: optional but assumed for early cc timing (Fall 9)
 Monsters
 --------
 // Monster drops are scummable/determined at kill time
-Ancient Seed (Mines) // Y1 required: ship (Winter 17), skip missing bundle
+Ancient Seed (Mines) // Y1 required: ship (Winter 17, skip missing bundle)
 Coffee Bean (Mines) // Y1 required: ship (Winter 17), poly (Summer 12)
 Dinosaur Egg (Skull) // Y1 required: bundle (Fall 16), ship (Winter 17)
 Red Cabbage (Skull) // Y1 required: bundle (Fall 9), ship (Winter 17)
 Rabbit's Foot (Skull) // Y1 bundle: optional but assumed for early cc timing (Fall 14)
 Cloth (Skull) // Y1 bundle: required (Fall 7)
-
-=======================================================
 
 Bundles
 -------
@@ -393,7 +440,7 @@ Cellar: 100kg // Casks // Y1: skip
 Fruit Trees: 28 days to mature then 1 per day (will produce on day of maturity if in season)
 Cave: unlocked at 25k earnings
 
-=======================================================
+==============================================================================================================
 
 Earliest Possible Completions Theorycraft
 -----------------------------------------
@@ -418,7 +465,7 @@ Y1/Winter 28: Shipping
 Y2/4 Spring: Polyculture
 Y2/4 Spring: Fishing
 
-=======================================================
+==============================================================================================================
 
 Scarecrow/Sprinkler Pattern
 ---------------------------
@@ -444,7 +491,7 @@ P-.+..+.#.+..+.-P
 ----.........----
 --------P--------   
 
-=======================================================
+==============================================================================================================
 
 Saves (Cloud Synced) > C:\Users\veris\AppData\Roaming\StardewValley\Saves
 Mods > C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods
