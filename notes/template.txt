@@ -503,6 +503,7 @@ P-.+..+.#.+..+.-P
 Saves (Cloud Synced) > C:\Users\veris\AppData\Roaming\StardewValley\Saves
 Mods > C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods
 
+SMAPI (Mod Loader): https://smapi.io/
 Merchant Predictor: https://mouseypounds.github.io/stardew-predictor/
 Completion Check: https://mouseypounds.github.io/stardew-checkup/
 Save Editor: https://www.nexusmods.com/stardewvalley/mods/127?tab=description
