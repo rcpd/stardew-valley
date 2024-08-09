@@ -3,7 +3,7 @@
 - This is a "min-max" guide for a Stardew Valley run created by [BlackSight6](https://old.reddit.com/user/BlackSight6) & [Zamiel](https://www.twitch.tv/Zamiell).
 - This route / strategy is designed for experienced Stardew players; knowledge of many game mechanics is assumed. While the guide is fairly in-depth, obvious things will not be explained.
 - We assume some reasonable [restrictions/rules](#appendix-a-recommended-restrictions), which makes this different from other min-max guides out there (or min-max streamers like [TheHaboo](https://www.twitch.tv/thehaboo)).
-- Many guides out there are designed for older versions of the game. This guide is designed for [version 1.5.6](https://stardewvalleywiki.com/Version_History). (In this version, you have access to Ginger Island, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
+- Many guides out there are designed for older versions of the game. This guide is designed for [version 1.6.0](https://stardewvalleywiki.com/Version_History). (In this version, you have access to Ginger Island, [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) is nerfed, the mushroom floor is nerfed, [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) is buffed, and so forth.)
 
 <br />
 
@@ -37,7 +37,7 @@ This guide is the synthesis of other guides that have come before. Guides are li
   - [General Mines Strategy](#general-mines-strategy)
   - [General Skull Cavern Strategy](#general-skull-caverns-strategy)
   - [Weather Modifications](#weather-modifications)
-  - [Dog/Cat Mechanics](#dogcat-mechanics) <!-- cspell:disable-line -->
+  - [Pet Mechanics](#pet-mechanics) <!-- cspell:disable-line -->
   - [Ginger Island](#ginger-island)
   - [NPC Friendship & Birthdays](#npc-friendship--birthdays)
   - [Other Notes](#other-notes)
@@ -94,15 +94,15 @@ The general goal of this route is to maximize the total amount of money gained b
 
 In that vein, the route is very detailed in spring, but starts to get less detailed in summer (while still listing some high-level objectives). From summer onwards, fill the rest of your time by accomplishing whatever objectives are the most important for your particular run.
 
-In order to maximize money, this route completely ignores friendship with NPCs, filling the museum, and completing the community center (outside of what is explicitly required to open the Skull Caverns). All of that stuff can wait until much later on in the run when you have a huge economy going.
+In order to maximize money, this route completely ignores friendship with NPCs, filling the museum, and completing the community center (outside of what is explicitly required to open the [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern)). All of that stuff can wait until much later on in the run when you have a huge economy going.
 
 ### Route Overview
 
 - This route starts off by doing a ton of fishing.
 - We upgrade the pickaxe to gold as soon as possible.
-- Then we unlock the [Skull Caverns](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible.
-- Once the Skull Caverns are opened, you craft and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) to make a lot of money.
-  - Routes that involve fishing + Skull Caverns are leaps and bounds more profitable than the typical naive strategy of planting massive amounts of [Strawberries](https://stardewvalleywiki.com/Strawberry) or other crops.
+- Then we unlock the [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible.
+- Once the Skull Cavern is opened, you craft and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) to make a lot of money.
+  - Routes that involve fishing + Skull Cavern are much more profitable than the typical naive strategy of planting massive amounts of [Strawberries](https://stardewvalleywiki.com/Strawberry) or other crops.
 - With the revenue from the Iridium Bars, we buy a lot of [Starfruit](https://stardewvalleywiki.com/Starfruit) + [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro), with the goal to get three Starfruit harvests during summer (and with all of the crops being automatically watered by [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)).
 
 ### Rules
@@ -174,43 +174,69 @@ Eventually, you will stop worrying about this and will only eat from a large sta
   - The best way to farm gold ore is by doing floor 81 over and over.
 - When you get to floor 100, don't immediately take the Stardrop. Save it for when you are completely out of energy. (It restores all of your energy in addition to increasing the maximum amount of energy.)
 
-### General Skull Caverns Strategy
+### General Skull Cavern Strategy
+
+#### Initial Visit & Trading
 
 - When you first go to the desert, you will need to use the bus. Pam exits her house at 8:40 AM. Stand in front of her door to block her and it will force her into a state where she will start running. Do the same trick again once Pam enters the Bus Stop screen. Combined, this makes Pam get to the bus at 9:36 AM instead of at 10:09 AM (saving 33 minutes).
-- Trade all [Jade](https://stardewvalleywiki.com/Jade) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Staircases](https://stardewvalleywiki.com/Staircase) (only on Sunday).
+- Trade all [Jade](https://stardewvalleywiki.com/Jade) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Staircases](https://stardewvalleywiki.com/Staircase) (only on Sunday). (See the next section for more information on jade.)
 - Trade all [Emeralds](https://stardewvalleywiki.com/Emerald) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Cheese](https://stardewvalleywiki.com/Cheese) (only on Friday). Cheese is almost the exact same GPE as Salad, but it is helpful to have because going out of your way to the Saloon can be a huge waste of time.
 - Trade all [Rubies](https://stardewvalleywiki.com/Ruby) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Spicy Eels](https://stardewvalleywiki.com/Spicy_Eel). Use one immediately for the speed boost and keep it going for the whole day.
-- Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
+- Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day. (If you run out of coffee, then you should be using purchased [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) instead. See the next section for more information on diamonds.)
 - Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert), at least initially. Use these to get to the desert on subsequent days. If you have 5-10 totems or more, then you can start to save the geodes for minerals.
+
+#### General Tips
+
 - In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
-- It is more efficient to craft [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) rather than [Bombs]. (You get 5 explosive ammo per 5 iron ore and 2 coal versus 1 Bomb per 4 iron ore and 1 coal.) You should craft a lot of explosive ammo, but do not go overboard, as you need to build up some ore for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler).
-- You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable than fishing in spring.
+- The same pausing trick that you do in the mines also applies to the Skull Cavern (e.g. you should pause at the beginning of every floor).
+- On mini-floors with a chest, you should destroy every rock on the floor until you get either a staircase or a shaft. (This is an easy way to get a shaft.)
+  - Once you get a ladder, you can stop looking for a shaft, because shafts stop spawning as long as there is there is a non-hard-coded ladder.
+- The goal for the day should be to the deep floors as soon as possible, because deep floors will have tons of iridium nodes that you can efficiently break all at once with bombs. Thus, this means that you should ignore almost everything and take a ladder/shaft as soon as you see it. (Don't sidetrack for ore or anything else!)
 - Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
+- For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
+- Craft 2x [Glowstone Ring](https://stardewvalleywiki.com/Glowstone_Ring) as soon as possible. (The recipe requires mining level 4.) These can be optionally be replaced later on with [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band), but this is not a priority, since you will hardly be attacking any monsters.
+
+#### Managing Explosions
+
+- Using a pickaxe to kill every single rock is too slow - we would not be able to make it to the deep floors with lots of Iridium nodes, which means the whole day would be a waste of time due to only getting a tiny bit of income. Thus, even though it wastes precious resources to use explosions, we need to spend money to make money. But this is a delicate balance!
+- First, an overview of the bomb types:
+  - [Cherry Bomb](https://stardewvalleywiki.com/Cherry_Bomb) - Crafted with [Copper Ore](https://stardewvalleywiki.com/Copper_Ore). However, we need copper ore early on for crafting lots of [Furnaces](https://stardewvalleywiki.com/Furnace). Later on, we also need lots of copper ore for crafting lots of [Kegs](https://stardewvalleywiki.com/Keg).
+  - [Bomb](https://stardewvalleywiki.com/Bomb) / [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) - Crafted with [Iron Ore](https://stardewvalleywiki.com/Iron_Ore). However, we need iron ore early on for crafting lots of [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler). Later on, we also need lots of iron ore for crafting lots of [Kegs](https://stardewvalleywiki.com/Keg).
+  - [Mega Bombs](https://stardewvalleywiki.com/Mega_Bomb) - Crafted with [Gold Ore](https://stardewvalleywiki.com/Iron_Ore) / [Void Essence](https://stardewvalleywiki.com/Void_Essence) / [Solar Essence](https://stardewvalleywiki.com/Solar_Essence). However, we need the gold ore for crafting lots of [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler) and [Crystalariums](https://stardewvalleywiki.com/Crystalarium). Additionally, you might want to build up to 100 Void Essence and Solar Essence to craft two [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band).
+- On your first couple Skull Cavern runs, the idea will be to use the pickaxe for most things and to only use bombs for big clumps of rocks. Once you get mining level 10 and start to sell Iridium Bars, you will transition to more liberal use of bombs.
+- Mega Bombs are nice early on in that you can save on precious coal. While Mega Bombs should be generally preferred, you should still use the other options, depending on the explosive size needed. This helps balance your ore expenditure.
+- Explosive Ammo is more efficient to craft than Bombs (since you get 5 explosive ammo per 5 iron ore + 2 coal versus 1 bomb per 4 iron ore + 1 coal). You want to transition to using Explosive Ammo fairly quickly, with the strategy of killing iridium nodes that are close to walls. It is worth it to spend 1 Explosive Ammo for 1 iridium node (since you save 4+ pickaxe swings).
+- Between spending coal directly on explosives and using coal to craft bars, you will quickly run out of coal. The profits from Iridium Bars should be spent on more coal as needed.
+- In the end-game, you will be buying coal en-mass and copper ore en-mass. Gold ore stops being useful once you have crafted all of the Quality Sprinklers and Crystalariums that you will need. But iron ore is always in short supply, because you can always have more kegs. Thus, you might want to choose to craft Cherry Bombs early on (to save the other ore) and then start buying Bombs (1000g each) & Explosive Ammo (300g each) from the Dwarf once you start to have spare money.
+
+#### Other
+
+- You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable than fishing in spring.
 - When you start doing the Skull Cavern, you will only have the first backpack upgrade. You will want to buy the 2nd backpack upgrade (10,000g) as soon as possible. (On average, you should be able to afford it after the first two Skull Cavern runs.)
-- Once you get 3 extra [Prismatic Shards](https://stardewvalleywiki.com/Prismatic_Shard), you will want to turn them in to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) on Thursdays for [Magic Rock Candy](https://stardewvalleywiki.com/Magic_Rock_Candy).
+- After using your first [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) on the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword), the remaining Prismatic Shards should be turned in to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) on Thursdays for [Magic Rock Candy](https://stardewvalleywiki.com/Magic_Rock_Candy).
   - This is worth it because overall, the extra +4 luck should help you get more than 6,000g in Iridium Ore.
   - The worse the daily luck is, the more beneficial Magic Rock Candy is. On the worst possible luck (skull) days, you probably don't want to go to the Skull Cavern at all and instead take care of other miscellaneous tasks. Thus, it is optimal to save and use the Magic Rock Candies on slightly unlucky days (e.g. bat on the TV).
   - It is optimal to use Magic Rock Candies immediately (on floor 1) as opposed to saving them for deeper floors. This is because you want to get out of the early floors as fast as possible.
-- The same pausing trick that you do in the mines also applies to the Skull Cavern (e.g. you should pause at the beginning of every floor).
-- On mini-floors with a chest, you should destroy every rock on the floor until you get either a staircase or a shaft. (This is an easy way to get a shaft.)
 - Use a staircase when:
   - You get the long spiral floor. (This is the worst floor.)
   - You get the long vertical floor. (This is the 2nd worst floor.)
   - You hit a big dead end with no rocks left to kill in the immediate area.
 - Once you have built up a lot of staircases, you can start to be more liberal with your staircase usage and staircase past any floor that does not have any big open spaces that are easily bomb-able.
-- If you are lucky enough to get a [Lucky Ring](https://stardewvalleywiki.com/Lucky_Ring) to drop, then you will want to use that (instead of e.g. two [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band)).
-- For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
+- You should kill nearby crates until you get 2x [Lucky Rings](https://stardewvalleywiki.com/Lucky_Ring). Most of the time, you should be wearing your Lucky Rings, but you should also carry two [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band) in your inventory and swap them out after an explosion. (When the game is paused, you can equip both Iridium Bands, wait for the magnetism to pull all of the items into your inventory, and then equip the Lucky Rings again, all without wasting any in-game time.) You can also swap in the Iridium Bands if you decide to kill an enemy (for the extra 20% damage boost).
+  - It is most important to equip the Lucky Rings before destroying any rocks/ore, since it affects the chances of ladders/shafts appearing. (Note that luck also increases the chances of ore and coal dropping from stone, but the buff is only 0.03% per luck, so this is next-to-useless.)
+  - Additionally, Lucky Rings should be equiped before entering a new floor, because it affects the chances of it having a treasure chest.
+  - Equipping Lucky Rings before killing monsters will not do anything. (Luck does not affect the chances of monster drops.)
 
 ### Diamond & Jade Farming (for Skull Cavern)
 
-- Moving as quickly as possible in the Skull Caverns is essential, so you need to always have the [Coffee](https://stardewvalleywiki.com/Coffee) / 
-[Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso) buff activated.
-- In Summer, you can use extra money to buy [Coffee](https://stardewvalleywiki.com/Coffee) from the Saloon (and then craft it into Triple Shot Espresso using the level 2 house for convenience purposes). However, early on, you won't have any extra money, so you will need to rely on trading Diamonds to the Desert Trader.
-- For this reason, it is helpful to put Diamonds into the first 1-2 [Crystalariums](https://stardewvalleywiki.com/Crystalarium) that you get.
+- Moving as quickly as possible in the Skull Cavern is essential, so you need to always have the [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso) or the [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) buff activated.
+- Triple Shot Espresso comes from trading diamonds to the Desert Trader. All of your diamonds should be going towards this purpose. During your first week or two of Skull Cavern runs, you will not have enough diamonds to keep Triple Shot Espresso going constantly. Thus, you should route in buying some [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) from either [JojaMart](https://stardewvalleywiki.com/JojaMart) (during the day) or the [Saloon](https://stardewvalleywiki.com/The_Stardrop_Saloon) (at night).
+  - However, money is also extremely tight during your first two weeks of Skull Cavern runs, so you could also forgo using Joja Cola until you have your first summer Starfruit crop planted.
+- Due to the speed buff being so useful, diamonds should be put into the first 5-10 [Crystalariums](https://stardewvalleywiki.com/Crystalarium) that you get.
 - Ultimately though, in order to optimize Skull Cavern farming, you need a ton of Jade, so Jade should be put in any subsequent Crystalariums.
 - [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) will drop on your Skull Cavern runs (from Iridium Bats). Focus on using your batteries to craft more Crystalariums.
 - Crystalariums are expensive to craft, especially in the early game, when you are trying to balance buying Starfruit, getting tool upgrades, and buying buildings from Robin. However, you should prioritize Crystalariums, because in the long-run, they will pay for themselves ten times over: copious use of Staircases will double your Iridium Ore rate per day.
-- In order to get as many batteries as you can, make sure you craft and place as many [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod) as you can before the first summer storm.
+- In order to get as many batteries as you can, make sure you craft and place as many [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod) as you can before the first summer storm. (On some runs, you may not have the foraging experience to be able to craft Lightning Rods before the first storm comes, which is not a big deal.)
 
 ### Weather Modifications
 
@@ -221,10 +247,10 @@ Eventually, you will stop worrying about this and will only eat from a large sta
   - If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish. (The exception is if you want to buy the 2nd upgraded backpack.)
 - For reference, you can get about 10,000g per day when fishing at the forest river when it rains (at level 10).
 
-### Dog/Cat Mechanics
+### Pet Mechanics (Dog/Cat)
 
 - If you are not doing a Grandpa-points-related challenge, then it is optimal to not have a dog/cat at all, as they get in your way and make you lose time.
-- If you are doing a Grandpa-points-related challenge, then you may need to get the dog/cat for the Grandpa points. In this case, it is optimal to choose a cat over a dog, since they get in your way less.
+- If you are doing a Grandpa-points-related challenge, then you may need to get the dog/cat for the Grandpa point. (Having the pet at 1000 points of friendship gets you 1 point, which is the maximum amount.) In this case, it is optimal to choose a cat over a dog, since they get in your way less.
 - Note that it only takes 83 pets (+12 per pet) in order to maximize the friendship value of the dog/cat. Thus, since dog/cat friendship does not decay, you may be able to defer wasting any time petting the pet until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
 - Subsequently, because of the petting mechanic, you should **never** have to fill up the pet's bowl. (Unless for whatever reason you deferred petting for too long and need to get extra friendship before the deadline. Filling the bowl gives +6 points.)
 
@@ -246,8 +272,8 @@ For certain challenge runs, you might want to gain access to Ginger Island befor
 ### Other Notes
 
 - If your character's gender does not matter to you, then it is optimal to choose a female, as they get 500g in the mail instead of a [Cookie](https://stardewvalleywiki.com/Cookie).
-- Always set the game options to zoom out as far as possible (e.g. 75%). This makes you waste less time while foraging & mining.
-  - It is also possible to edit the zoom value directly inside the save file in order to zoom out farther than 75%. Or, you can use [a mod](#appendix-b-mods) to accomplish the same thing. Doing this is [not considered cheating](#appendix-a-recommended-restrictions).
+- If you are playing without mods, set the game options to zoom out as far as possible (e.g. 75%). This makes you waste less time while foraging & mining.
+  - However, it is recommended to play with the [Zoom Level](https://www.nexusmods.com/stardewvalley/mods/7363) mod so that you do not have to deal with this vanilla restriction. Counterintuitively, doing this is [not considered cheating](#appendix-a-recommended-restrictions).
 - For reference, it is possible to get up to 22 Spring Onions on Spring 1. (It is not required to get any Spring Onions on Spring 1, but it certainly helps.)
 - Save all [Acorns](https://stardewvalleywiki.com/Acorn) for summer. (We will use them to make an [Oak Tree](https://stardewvalleywiki.com/Oak_Tree) forest.)
 - Do not read any of your mail unless explicitly told to by the guide.
@@ -273,28 +299,30 @@ The plan for the day is to meet everybody in the town and save money for tomorro
 
 An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. However, in the "meet everybody" route, you still kill plenty of weeds, making the overall number of mixed seeds very similar. Thus, the marginal number of mixed seeds gathered in the alternate route is not worth more than the early 100g.
 
-Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset.
+Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset (since it is unintended by the developer).
 
 - Take the Parsnip Seeds.
 - Immediately chop down 9 trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that some of the weeds you clear are helpful for that.)
-  - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2 and acorns are precious.)
+  - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not the egg-shaped [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2, and acorns are precious.)
   - For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
-  - Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
+  - Do not chop the stumps; only chop a tree until it falls, limiting to 10 strikes, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
+  - If you lose tree count, check the skills tab for a foraging level increase. This will also be useful tomorrow while fishing.
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
 - Exit south to the forest. (The time should be around 9:20 AM.)
 - Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
-  - Pick up all foragable items along the way.
-  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie by 12:50 PM).
+  - Pick up all forgeable items along the way.
+  - If it would not waste the energy gain, you can immediately eat the Spring Onions upon pickup to free up the inventory space.
+  - Kill as many weeds as possible, but do not go too far for just one weed (since you need to make it to Marnie by 12:50 PM).
 - Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
 - Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule.
 - Go to town.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
-  - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
-  - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
+  - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking when they can drop an item, and it flies in the opposite direction. (This is similar to the strategy where pausing when a tree is falling down is optimal.)
+  - Checking garbage cans is a massive waste of time, so the route only does this on the first two days.
 - Meet Marnie walking to her ranch from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
 - Go to the beach.
-- Hoe any artifact spots to try and get your first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
+- Hoe any artifact spots to try and get your first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and can collect them on Spring 2.)
 - Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 PM.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
@@ -308,45 +336,45 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Check the garbage can next to Lewis' house.
 - Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the west side of the map by Harvey.
-- Meet Leah + Pierre inside of Pierre's General Store.
+- Meet Leah + Pierre inside Pierre's General Store.
   - You have to go behind the counter to talk to Pierre.
-  - You will buy Spring Crops on Spring 5 or 6, so don't buy from Pierre today.
-- It should now be close to 4:00 PM and we can meet everybody else near the Saloon:
+  - You will buy Spring Crops on Spring 5 or 6, so wait to buy from Pierre today.
+- It should now be close to 4:00 PM, and we can meet everybody else near the Saloon:
   - At 4:00 PM, Alex finishes his workout and leaves his room. Check the garbage can next to their house, then enter and meet George and Alex. (If you are fast, you might need to wait for Alex to leave his room.)
   - At 4:00 PM, Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet Gus and Emily. (You have to go behind the counter to talk to Gus.)
-  - At 4:20 PM, Penny passes Lewis's fence and Alex leaves his house.
-  - At 4:40 PM, Penny reaches the bench with Maru. You can meet them there if we have not already met them.
-- Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
+  - At 4:20 PM, Penny passes Lewis's fence, and Alex leaves his house.
+  - At 4:40 PM, Penny reaches the bench with Maru. You can meet them there if we still need to meet them.
+  - Check your quest journal to confirm that you register meeting 24 people of the maximum 27 for today.
+- Go back to the farm. (Leave all forgeable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
 - Clear weeds on the farm until around 6:00 PM.
 - Exit to the Backwoods around 6:10 PM.
 - Meet Linus outside of his tent.
-- Meet Demetrius south and to the east of his house. (You do not need to talk to Robin because you already met her.)
-- Meet Sebastian as he leaves his house. (If you got here before 7:00 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)
+- Meet Demetrius south and to the east of his house. (You do not need to talk to Robin because you have already met her.)
+- Meet Sebastian as he leaves his house. (If you arrive before 7:00 PM, you must idle until he leaves his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)
 - Go south to the community center.
 - Kill the weeds to the west of the community center.
 - Kill the weeds to the west of the fountain.
-- Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
+- Go home. (Get any foragable items at the Bus Stop you missed earlier.)
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
-  - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later on.)
-- Eat all Spring Onions. (They are near-worthless to sell.)
+  - Crows can eat one or more crops every day by planting additional crops beyond the 15 initial Parsnip Seeds. However, planting the Mixed Seeds makes this worth the extra value. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later.)
 - Chop wood until around 4-6 energy left.
-- Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe and plant and water all of the Mixed Seeds before 2 AM and passing out.)
+- Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe, plant, and water all the Mixed Seeds before 2 AM.)
 - Head back to your house and ship everything except:
   - Stone
   - Wood
   - Coal
   - 20 Fiber
 - Note that:
-  - You should sell all foraging items (except for Spring Onions). Worry about the Community Center quest later on, because we need as much money as possible for tomororw.
-  - Normally, we eat Leeks, Dandelions, and food from the garbage cans instead of selling them, since they have a low GPE. However, today as an exception to the rule, since we need money very badly.
+  - You should sell all foraging items (except for Spring Onions). Worry about the Community Center quest later because we need as much money as possible tomorrow.
+  - Normally, we eat Leeks, Dandelions, and food from garbage cans instead of selling them since they have a low GPE. However, today is an exception since we need money badly.
 - Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
-  - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki) you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.
-  - This adds a bit of time pressure to clearing the mine due to the lack of Minecarts you'd otherwise have for 2 days but this is very unlikely and doesn't change the route.
+  - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki), you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.
+  - This adds a bit of time pressure to clearing the mine due to the lack of Minecarts you'd otherwise have for 2 days, but this is very unlikely and doesn't change the route.
 - Be inside your house a few minutes before 2:00 AM. (We do not want to incur the gold penalty.)
-- Destroy the bed. (This is to force you to spawn immediately next to the door at the beginning of every day, which saves time. Alternatively, you can just remove it from the house for now and stick it in a chest for safe-keeping.)
-- Move the TV next to the door (so that you can immediately check it upon waking up).
+- Destroy the bed. (This is to force you to spawn immediately next to the door at the beginning of every day, which saves time. Alternatively, you can remove it from the house and stick it in a chest for safe-keeping.)
+- Move the TV next to the door (so you can immediately check it upon waking up).
 - At the end of the day, you should get:
   - Foraging 0 --> 1
 
@@ -368,7 +396,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - If you get an artifact now and did not get one on Spring 1, then immediately go turn it in and claim the reward (250g).
 - Go to Willy's shop. Sell all beach foragable items + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   - The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)
-- With the Training Rod, use minimum casts. Fish until you have enough fish to sell to get up to 1,800g.
+- With the Training Rod, use minimum casts directly south outside Willy's door. Fish until you have enough fish to sell to get up to 1,800g.
   - Minimum casts gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
   - Also see [General Fishing Strategy](#general-fishing-strategy).
 - If out of Seaweed (1.54 GPE) and Joja Cola (1.92 GPE), eat the highest quality Anchovy (1.82 GPE) or Herring (1.82 GPE).
@@ -432,7 +460,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.com/Copper_Bar) as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is small.) Then, we plant some seeds. Then, we fish.
 
 - From here on out, check the TV every single day to reveal the current day's luck.
-- Choose to either take the pet or decline it. (See [Dog/Cat Mechanics](#dogcat-mechanics).) <!-- cspell:disable-line -->
+- Choose to either take the pet or decline it. (See [Pet Mechanics](#pet-mechanics).)
 - Harvest the Parsnips and make a note of how many you harvested.
 - Make a note of which mixed seeds you have planted. (You can tell either by looking at the appearance of the seed or by using [a mod](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#ui-info-suite).)
 - Claim the reward for the parsnip quest (100g).
@@ -440,17 +468,19 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Craft a chest and take it with you. 
 - Make a note of how many iron ore and gold ore you have, if any. (They randomly drop from fishing chests.)
 - Retrieve the pickaxe + gems + stone + coal + copper + all but 3 parsnips from the chest.
-  - Leave Jade, Emeralds, Rubies, and Diamonds though since we want to save those for the Skull Caverns.
+  - Leave Jade, Emeralds, Rubies, and Diamonds though since we want to save those for the Skull Cavern.
   - We need 1 parsnip for the bundle, 1 parsnip to ship (optional), and 1 parsnip for Pam (optional).
+  - You may leave one coal behind to craft a Scarecrow tomorrow.
 - Go to the mines.
 - Place the chest to the left of the elevator.
 - Make your way to floor 10. (See [General Mines Strategy](#general-mines-strategy).)
 - As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar). (Do not wait until you get to the next elevator unless you are really close.)
 - Keep the furnace going until you have 5 bars. For reference, you must have all 5 bars crafted by no later than 3 PM.
-- Once you get to floor 10, farm floor 10 over and over for copper ore while you wait for the remaining bars to smelt (because you likely will not have time to get to floor 15 before 3 PM).
+- Once you get to floor 10, farm floor 11 over and over for copper ore while you wait for the remaining bars to smelt (because you likely will not have time to get to floor 15 before 3 PM).
 - As soon as you have the 5 bars ready:
   - Leave the sword + parsnips in the chest. (You will not return to this chest until Spring 11.)
   - Retrieve the furnace + any gems + miscellaneous. Make sure you leave 4 slots open in your inventory.
+  - If you did not leave a coal behind on the farm, take one with you to craft a Scarecrow tomorrow.
   - Go to the blacksmith.
 - As an extra tip, if you are running late and do not have time for the 5th bar to smelt, then you can still get to the blacksmith by 4 PM, place the furnace inside in blacksmith, smelt the 5th bar, and wait 30 minutes. As long as you are inside the building, Clint will continue to sell to you until 7:10 PM. (Even when Clint moves away from the counter and goes to the anvil, you are still able to interact with the counter. However, this is considered a bug, so if you want to avoid cheating, you would have to purchase what you need from Clint before he actually moves away from the counter.)
 - If you fail to craft the bars in time or fail to reach the blacksmith before he closes, then fish for the remainder of the day. For the rest of the route, push everything back one day. (This is not as bad of a mistake as you would think, since you will need to do a lot of fishing for extra money anyway.)
@@ -519,7 +549,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Go to the blacksmith:
   - Buy up to 25 gold ore (including what you have fished up).
   - Upgrade to the Steel Pickaxe (5,000g).
-- Fish at the mountain lake until 2 AM, then pass out.
+- Fish at the mountain lake until 2 AM, then pass out. Smelt gold bars while you fish. You should be able to smelt 2-3 bars, with one more in the furnace when you pass out. 
 - At the end of the day, you should get:
   - Fishing 8 --> 9
 
@@ -530,7 +560,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Out of your sellable items, ship however much will give you 12,000g.
   - This is for the Gold Pickaxe upgrade (10,000g) + the backpack upgrade (2,000g).
   - If you do not have enough, then you will need to return home before the end of the day and ship the fish you catch during the day to make up the difference.
-- Fish at the mountain lake until 2 AM, then pass out.
+- Fish at the mountain lake until 2 AM, then pass out. Smelt gold bars while you fish, until you have 5 total. Make sure you have these bars in your inventory when you pass out.
 - As this is the first day we have not increased a skill since the start of the game, make sure not to exhaust yourself. (We need to wake up with 50% energy instead of 0% energy.)
 
 ### Spring 9
@@ -588,7 +618,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 ### Spring 13
 
 - Mine until 2 AM, then pass out.
-- (There is nothing that we need from the Egg Festival, so going there would be a waste of time. One exception would be if you are doing a challenge to ship every item by the end of year 1; in that case you would need one or two [Strawberry Seeds](https://stardewvalleywiki.com/Strawberry_Seeds).)
+- (There is nothing that we need from the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival), so going there would be a waste of time. One exception would be if you are doing a challenge to ship every item by the end of year 1; in that case you would need one or two [Strawberry Seeds](https://stardewvalleywiki.com/Strawberry_Seeds).)
 
 ### Spring 14
 
@@ -700,7 +730,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Check the Queen of Sauce for the [Omelet](https://stardewvalleywiki.com/Omelet) recipe.
 - Ship as many items as possible. (We want as much gold for tomorrow as possible.)
 - Craft + place Quality Sprinklers.
-- Plant Parsnip Seeds (as a "linger" crop) if you haven't already done so earlier on in the season.
+- Plant Parsnip Seeds (as a linger crop) if you haven't already done so earlier on in the season.
   - Do not use Deluxe Speed-Gro on the Parsnip Seeds, as it will not carry over to Summer 1.
 - If you finish before around noon, then you can spend the rest of the day in the Skull Cavern.
 
@@ -778,7 +808,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 ### Summer 25
 
 - Buy additional [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the [Oasis](https://stardewvalleywiki.com/Oasis).
-- Sometime between now and Summer 28, hoe and place all the quality sprinklers and additional Deluxe Speed-Gro. The wheat will not be ready on Fall 2 if the soil is not watered on the Summer 28.
+- Sometime between now and Summer 28, hoe and place all the quality sprinklers and additional Deluxe Speed-Gro. The wheat will not be ready on Fall 2 if the soil is not watered on Summer 28.
 
 ### Summer 26
 
@@ -792,7 +822,8 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 
 - Harvest the Starfruit.
 - At 9 AM, go to Pierre's and buy enough [Wheat Seeds](https://stardewvalleywiki.com/Wheat_Seeds) to cover your whole farm.
-- Plant the Wheat Seeds.
+- Plant the Wheat Seeds (as a linger crop, which keeps the Deluxe Speed Gro).
+  - Planting them on Summer 28 is only viable if you have the Agriculturist profession. Otherwise, this strategy would not work to get 3 batches of pumpkins.
 
 ### Fall 1
 
@@ -870,7 +901,7 @@ The reasons for allowing a mod to zoom the game are threefold:
 - First, players with 4K monitors can see much farther than players on 1080p monitors. It would be silly to force players to have to buy a 4K monitor in order to get a competitive advantage at Stardew Valley, so allowing arbitrary zooming puts everybody on a level-playing field.
 - Second, it is possible to set the zoom level to be a value less than 75% by manually editing the value in your save file by using a text editor. Thus, it is possible to achieve the arbitrary zoom-levels that a mod provides while still playing without any mods. The only difference is that by having zoom hotkeys, you can easily zoom in and out without having to squint at the screen, which is a huge quality of life improvement.
 - Third, even if you consider manually editing a save file to be cheating, it is still possible to see the entire area *without* changing the zoom level by taking a screenshot from the in-game options menu. By pausing the game and opening the resulting PNG file, players can see the entire area that they are in without having to actually walk there.
-- Even with these three things in mind, one could argue that a skilled Stardew Player should arbitrarily restrict themselves to playing in a "normal" zoom level and to not ever use the in-game screenshot feature. This is a reasonable restriction to take on, but the resulting gameplay that this restriction causes does not end up being more fun - having to walk out of your way to explore an area does not really add any meaningful decision-making to the game.
+- Even with these three things in mind, one could argue that a skilled Stardew player should arbitrarily restrict themselves to playing in a "normal" zoom level and to not ever use the in-game screenshot feature. This is a reasonable restriction to take on, but the resulting gameplay that this restriction causes does not end up being more fun - having to walk out of your way to explore an area does not really add any meaningful decision-making to the game.
 
 <br />
 
@@ -897,9 +928,17 @@ This mod is a compilation of several different features:
 
 (UI Info Suite is the most important mod that we recommend. The mods below here are listed in alphabetical order.)
 
+#### [Always Organize Chests](https://www.nexusmods.com/stardewvalley/mods/21207)
+
+This automatically clicks on the "Organize Chest" button whenever a new item is put into a chest. This is a quality of life feature for those of us who compulsively click on the button manually all the time.
+
 #### [Always Scroll Map](https://www.nexusmods.com/stardewvalley/mods/2733)
 
 This allows the screen to be centered on the player. It can be toggled on and off by pressing ";" and the default behavior is customizable. This is helpful for restocking massive amounts of jars/kegs in a Shed, for example, because when the screen is centered, you need to do a lot less mouse movements. This is not considered cheating because the "skill" difference between moving the mouse a little more while restocking a shed or planting crops is negligible.
+
+#### [Eat & Drink From Inventory](https://www.nexusmods.com/stardewvalley/mods/21280)
+
+This allows food and drink items to be consumed from the pause screen by pressing a hotkey. This is a quality of life feature to prevent having to accept the eating dialog confirmation box over and over. 
 
 #### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
 
@@ -921,17 +960,21 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 
 This changes the color of unfilled [Preserves Jar](https://stardewvalleywiki.com/Preserves_Jar) and [Kegs](https://stardewvalleywiki.com/Keg) to be red. This is helpful because when you are filling massive amounts of jars or kegs, it is common to accidentally miss one. This allows you to easily see missed jars/kegs. (Otherwise, you would have to pause the game and squint to examine if all of the jars/kegs on the screen have a pulsating animation.)
 
+#### [Morning Auto-Pause](https://www.nexusmods.com/stardewvalley/mods/21266/)
+
+This automatically pauses the game at the beginning of the day. This is useful since the game can lag when first loading the day, wasting precious in-game seconds.
+
 #### [No Defend With Sword](https://github.com/DiscipleOfEris/NoDefendWithSword)
 
 This prevents the usage of defending with a sword. This is helpful because accidental usage of defend is a common mistake.
 
-#### [Remember Faced Direction](https://www.nexusmods.com/stardewvalley/mods/6946)
-
-This fixes the bug where the game removes your faced direction after performing an action (like eating).
-
 #### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
 
-This prevents the game from rounding the time to the nearest 10 minutes. It is hard to believe that this simple feature is not in the vanilla game.
+This prevents the game from rounding the time to the nearest 10 minutes. (It is hard to believe that this simple feature is not in the vanilla game!)
+
+#### [Better Shipping Bin](https://www.nexusmods.com/stardewvalley/mods/10487)
+
+This allows you to put things and take them out of the shipping bin like it was a chest. Importantly, it also shows a running tally of the amount of gold you will recieve the next day. This is extremely useful because at several points in a min-max run, you will have to ship exactly a certain amount of gold, and this mod obviates the need for writing everything down with pencil and paper. Presumably, the vanilla shipping bin does not function like this because it would allow for additional unlimited temporary storage. Thus, in order to prevent cheating, you should never temporarily store items in the shipping bin with this mod.
 
 #### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 
@@ -940,6 +983,10 @@ This removes the intro cutscene (e.g. the cutscene that appears before you get t
 #### [Sleepless Fisherman](https://www.nexusmods.com/stardewvalley/mods/5915)
 
 This disables the "ZZZ" animation that plays at 12 AM and 1 PM when you happen to be fishing. This is helpful since it can be confused with a bite animation, causing you to waste precious energy.
+
+#### [Swap Rings](https://www.nexusmods.com/stardewvalley/mods/21205)
+
+This swap rings upon pressing a hotkey. This is extremely useful in a min-max run, because you will be constantly swapping out [Lucky Rings](https://stardewvalleywiki.com/Lucky_Ring) and magnatism rings in the Skull Cavern.
 
 #### [Zoom Level](https://www.nexusmods.com/stardewvalley/mods/7363)
 
@@ -1036,7 +1083,7 @@ For the Nautilus Shell:
 - The friendship from a liked gift would be fully depleted on Spring 10 of year 3.
 - Pierre's store opens at 9 AM.
 - In this route, it is inconvenient to give Pierre a gift, since you have to wait until for the store to open, and you are typically warping to the Skull Cavern at 6 AM.
-- Even if you care about friendship with Pierre, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 26th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give him a present in conjunction with buying Parsnip Seeds (as a "linger" crop).
+- Even if you care about friendship with Pierre, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 26th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give him a present in conjunction with buying Parsnip Seeds (as a linger crop).
 
 #### Emily - Spring 27
 
@@ -1049,14 +1096,14 @@ For the Nautilus Shell:
 #### Jas - Summer 4
 
 - Jas loves [Fairy Rose](https://stardewvalleywiki.com/Fairy_Rose), [Pink Cake](https://stardewvalleywiki.com/Pink_Cake), and [Plum Pudding](https://stardewvalleywiki.com/Plum_Pudding).
-- If your player is male, then you will have gotten a Fairy Cake in the mail, so this is the perfect gift. Otherwise, you can give a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) from the Skull Caverns.
+- If your player is male, then you will have gotten a Fairy Cake in the mail, so this is the perfect gift. Otherwise, you can give a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) from the Skull Cavern.
 - Jas leaves her bedroom at 11:05 AM.
 - In this route, it is inconvenient to give Jas gift, since you have to wait for her to come out, and you are typically warping to the Skull Cavern at 6 AM.
 - Even if you care about friendship with Jas, it is probably not worth it to waste 5 potential hours at the Skull Cavern. If you are doing a non-Skull Cavern day, then you might want to give her a present in conjunction with upgrading the pickaxe.
 
 #### Birthdays in Summer and Beyond
 
-- In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Caverns runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).
+- In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Cavern runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).
 
 <br />
 
