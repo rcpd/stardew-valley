@@ -52,9 +52,9 @@ Spring: check/stash Spring 15 bundle requirements (adventurer: void/solar)
 Spring: clear/hoe in cross pattern from the start
 Spring: Rice Shoots are irrigated within a 3x3 block around the dam
 Spring 5: Green Bean has to be planted today for earliest Desert & Minecart timing // L10-15 Mines
+Spring 5/7: buy up to 5 coal before each pick upgrade (150g ea)
 Spring 11: L15-20 Mines? (requires good farm prep) // 1-2 furances with automate
 Spring 12-14: ~35 levels/day (scum for ~30 min floors, sprinkler ore is tight)
-Spring 5/7: buy up to 5 coal before each pick upgrade (150g ea)
 Spring 12: buy remaining spring seeds when buying kale
 Spring 14: deadline for (regular) sprinklers is Spring 15 not 14 (still helps to start early)
 Spring 15: forage/crop > mine bundles > vault (24.5kg) // only 2/3 mining bundles required for Desert
@@ -460,8 +460,8 @@ Fishing: Winter 15 [Night Market]
 Walnuts: Fall 23 [Melon] // Winter 13 average Banana/Blue Discus rng
 Cooking: 28 Winter Y2 [TV recipe]
 
-Personal Best
--------------
+Personal Best [1.5]
+-------------------
 Y1/Spring 7: Fishing L10 (+1 rainy day)
 Y1/Spring 15: Mines + Vault
 Y1/Fall 9: Greenhouse
@@ -469,8 +469,8 @@ Y1/Fall 14: Community Center
 Y1/Fall 17: Ginger Island
 Y1/Winter 7: Missing bundle
 Y1/Winter 28: Shipping
-Y2/4 Spring: Polyculture
-Y2/4 Spring: Fishing
+Y2/Spring 4: Polyculture
+Y2/Spring 4: Fishing
 
 ==============================================================================================================
 
@@ -502,6 +502,7 @@ P-.+..+.#.+..+.-P
 
 Saves (Cloud Synced) > C:\Users\veris\AppData\Roaming\StardewValley\Saves
 Mods > C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods
+Steam Launch: "C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\StardewModdingAPI.exe" %command%
 
 SMAPI (Mod Loader): https://smapi.io/
 Merchant Predictor: https://mouseypounds.github.io/stardew-predictor/
