@@ -18,11 +18,14 @@ skill mastery (recipes)
 
 ==============================================================================================================
 
-tv: Spring 14 Y2 (incl)
-ginger: harvest in ??
-farm: harvest in ??, plant strawberries, automate fiber production?
-animals: fill coop with rabbits (universal gift)
-orders: dangerous mines, robin
+green: summer 7
+ginger: harvest Summer 2
+orders: todo (summer 1-7)
+cinema: done (summer 1-7)
+
+friendship: resets on sunday
+community/qi orders: resets on monday
+cinema: resets on monday
 
 ==============================================================================================================
 
@@ -43,7 +46,7 @@ notes/scraps: many // untracked
 racoon: 0/9 // achieve
 walnuts: birdie, journal #10 // perfect
 arcade: king (no death), kart // king = achieve, junimo untracked
-achieves: fair, luau, movie, sword, mines
+achieves: fair, luau, sword
 perfect: obelisks, clock // achieve, perfect
 
 ==============================================================================================================
@@ -51,4 +54,3 @@ perfect: obelisks, clock // achieve, perfect
 island upgrades: 11/11 // untracked
 grandpa: 4/4 // untracked
 cc/joja: cc done, joja not started
-mono/polyculture: done

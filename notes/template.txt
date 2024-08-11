@@ -1,10 +1,12 @@
-Friendship: gifts(100), talk(140) = 240/week (decay disabled with mod)
-Friendship: 8 hearts = 2000, 10 hearts = 2500
+Friendship: gifts(liked 100=2x45+10), talk(7x20=140), birthday = 640 (loved), quests = 150
+Friendhsip: quality = +0/10/25/50% modifier (not counted for quests, must be liked/loved gift)
+Friendship: luau = 120 (all, gold+ starfruit summer 11), bulletin = 500 (non-datable, kent/dwarf must be unlocked to benefit)
+Friendship: cinema = ~250 (loved), 8 hearts = 2000, 10 hearts = 2500
 
 community/qi orders: resets on monday
 friendship: resets on sunday
 foraging: resets on sunday (max items on sat)
-cinema: every 7 days
+cinema: resets on monday
 hardwood: daily
 pierre: closed Wednesday (3/10/17/24) until CC complete
 joja: joja open 7 days until 11pm, doesn't have Y2 seeds or blueberries
