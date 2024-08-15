@@ -18,36 +18,38 @@ skill mastery (recipes)
 
 ==============================================================================================================
 
-green: summer 7
-ginger: harvest Summer 2
-orders: todo (summer 1-7)
-cinema: done (summer 1-7)
+ginger: summer 22
+orders: done (summer 15-21)
+cinema: done? (summer 15-21)
 
 friendship: resets on sunday
 community/qi orders: resets on monday
 cinema: resets on monday
 
+raw fruit ~1000g = ~125/day, keg triples the value in ~6 days (240/day), cask doubles value again in 56 days (~40/day)
+less ~25g (fertilizer/3 harvests) + 400g seeds
+
 ==============================================================================================================
 
-gold: 6.5mil // achieve (gold clock for perfection is 10mil)
-skills: foraging > 0/5 mastery // skills = achieve/perfect, mastery = recipes
-quests: 34 help wanted, 17 special orders // special = recipes
+gold: 10mil // achieve
+skills: mastery // skills = achieve/perfect, mastery = recipes
+quests: help wanted, special orders // special = recipes (perfect)
 monsters: many // achieve, perfect
-stardrop: spouse, fair, woods, museum // achieve, perfect
-family: spouse + 2 kids, 1 more house upgrade // achieve
+stardrop: spouse, fair, museum // achieve, perfect
+family: spouse + 2 kids // achieve
 social: many // achieve, perfect
 cook: many // achieve, perfect
 craft: many // achieve, perfect
-fish: cave/river/sea jelly, goby // achieve, perfect
-ship: broccoli, carrot, powdermelon, squash, dried fruit/mushroom, raisins, smoked fish, moss, mystic syrup // achieve, perfect
+fish: goby // achieve, perfect
+ship: broccoli, carrot, powdermelon, dried fruit/mushroom, raisins, smoked fish, moss, mystic syrup // achieve, perfect
 books: many // achieve
 museum: 8 artifacts, 11 minerals // achieve
 notes/scraps: many // untracked
 racoon: 0/9 // achieve
-walnuts: birdie, journal #10 // perfect
+walnuts: journal #10 // perfect
 arcade: king (no death), kart // king = achieve, junimo untracked
-achieves: fair, luau, sword
-perfect: obelisks, clock // achieve, perfect
+achieves: fair, sword
+perfect: obelisks (3mil), clock (10mil) // achieve, perfect
 
 ==============================================================================================================
 

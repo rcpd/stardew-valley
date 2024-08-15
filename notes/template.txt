@@ -1,7 +1,9 @@
-Friendship: gifts(liked 100=2x45+10), talk(7x20=140), birthday = 640 (loved), quests = 150
+Friendship: liked = 45, loved = 80, 2 x gifts = 10, talk = 20, decay = -2/day (-10 bouquet, -20 married)
+Friendship: 2 liked gifts/talk + loved birthday + luau = ~12 weeks // book = +10%
+Friendship: birthday = 8x, xmas = 5x, quests = 150 // even just doing birthdays in Y1 is worth it
 Friendhsip: quality = +0/10/25/50% modifier (not counted for quests, must be liked/loved gift)
 Friendship: luau = 120 (all, gold+ starfruit summer 11), bulletin = 500 (non-datable, kent/dwarf must be unlocked to benefit)
-Friendship: cinema = ~250 (loved), 8 hearts = 2000, 10 hearts = 2500
+Friendship: cinema = ~250 (loved), 1 heart = 250, 8 hearts = 2000, 10 hearts = 2500
 
 community/qi orders: resets on monday
 friendship: resets on sunday
