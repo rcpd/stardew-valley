@@ -47,8 +47,7 @@ museum: 8 artifacts, 11 minerals // achieve
 notes/scraps: many // untracked
 racoon: 0/9 // achieve
 walnuts: journal #10 // perfect
-arcade: king (no death), kart // king = achieve, junimo untracked
-achieves: fair, sword
+achieves: fair
 perfect: obelisks (3mil), clock (10mil) // achieve, perfect
 
 ==============================================================================================================
