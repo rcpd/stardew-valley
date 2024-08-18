@@ -1,22 +1,26 @@
-Friendship: liked = 45, loved = 80, 2 x gifts = 10, talk = 20, decay = -2/day (-10 bouquet, -20 married)
-Friendship: 2 liked gifts/talk + loved birthday + luau = ~12 weeks // book = +10%
-Friendship: birthday = 8x, xmas = 5x, quests = 150 // even just doing birthdays in Y1 is worth it
-Friendhsip: quality = +0/10/25/50% modifier (not counted for quests, must be liked/loved gift)
-Friendship: luau = 120 (all, gold+ starfruit summer 11), bulletin = 500 (non-datable, kent/dwarf must be unlocked to benefit)
-Friendship: cinema = ~250 (loved), 1 heart = 250, 8 hearts = 2000, 10 hearts = 2500
+Friendship
+----------
+liked = 45, loved = 80, 2 x gifts = 10, talk = 20, decay = -2/day (224/year, -10 dating, -20 married)
+2 liked gifts/talk + loved birthday + luau = ~12 weeks // book = +10%
+birthday = 8x, xmas = 5x, quests = 150 // even just doing birthdays in Y1 is worth it
+quality = +0/10/25/50% modifier (not counted for quests, must be liked/loved gift)
+luau = 120 (all, gold+ starfruit summer 11) // ~550/year with loved birthday + luau - decay
+bulletin = 500 (non-datable only, kent/dwarf must be unlocked to benefit)
+cinema = ~250 (loved) // 1 heart = 250, 8 hearts = 2000, 10 hearts = 2500
 
+Misc
+----
 community/qi orders: resets on monday
 friendship: resets on sunday
 foraging: resets on sunday (max items on sat)
 cinema: resets on monday
-hardwood: daily
+woods: daily
 pierre: closed Wednesday (3/10/17/24) until CC complete
 joja: joja open 7 days until 11pm, doesn't have Y2 seeds or blueberries
 trader: tue stone(5):fiber, thur prism(3):candy(1), fri emer:cheese, sat wild(2):wild, sun jade:stair 
 trader: ruby:eel, diamond:coffee, geode(3):totem, geode(5):trove
 
-krobus/leo/willy: cooking (cheese, mayo, etc)
-rest: salad
+krobus/leo/willy: cooking (cheese, mayo, etc) // rest: salad
 
 ==============================================================================================================
 
@@ -27,7 +31,7 @@ Spring
 // Spring 13 Egg Festival: buy Strawberry seeds // Y1: skip unless shipping
 // Y1: Spring 15-18 Salmonberry 
 // Y1: Spring 16 plant remaining crops
-// Spring 24 Flower Dance: 250 Friendship (requires 4+ hearts), buy Tub o' Flowers recipe  // Y1: skip, Y2: rarecrow (2.5kg)
+// Spring 24 Flower Dance: 250 Friendship (requires 4+ hearts) // Y1: skip, Y2: rarecrow, buy Tub o' Flowers recipe
 // profit: Strawberry (Egg Festival) > Rhubarb (Oasis) > Cauliflower
 
 Wild Horseradish: bundle, ship, craft, cook
@@ -141,15 +145,17 @@ Fall
 ----
 // Y1 Rain: Walleye, Catfish, Eel, Shad
 // Y1: Fall 1 plant Yam + Pumpkin w/ Deluxe Speed-Gro + Agriculturalist
+// Fall 2 special orders // P: start checking for recipe quests
 // Y1: Fall 4 plant Eggplant, Wheat, Sunflower, Sweet Gem Berry
 // Y1: Fall 7 Artisan Bundle > Wine
 // Y1: Fall 8-11 Blackberry
 // Y1: Fall 9 Pantry Bundles > Greenhouse
 // Y1: Fall 10: Winter Seeds w/ Deluxe Speed-Gro + Agriculturalist
 // Y1: Fall 14 all remaining bundles
-// Fall 16 Stardew Valley Fair // Y1: plant remaining crops, buy stardrop (2000), rarecrow(800)
+// Y1: Fall 16 plant remaining crops
+// Fall 16 Stardew Valley Fair // Y2: buy stardrop (2000), rarecrow (800)
 // Y1: Fall 17 plant fruit trees > Ginger Island
-// Fall 27 Spirit's Eve // Y1: buy Jack-O-Lantern recipe, rarecrow(5kg)
+// Fall 27 Spirit's Eve // Y2: buy Jack-O-Lantern recipe, rarecrow
 // Y1: Quality Crops(3x5/Gold): 15-20 crops with quality fertilizer (fish + sap + L9 farming) for gold bundle or 40-50 without
 // profit: Pumpkin
 
@@ -187,7 +193,7 @@ Ancient Fruit: bundle, ship // 28 days (Greenhouse) // Y1: Fall 17 (skip bundle)
 Wine: bundle(2), ship // Y1: Fall 7 // Quality Wine = Resort
 Cloth: bundle, ship // Skull // Y1: Fall 7
 Honey: bundle, ship, craft // Oasis/Friday // Y1: Fall 7
-Tea Leaves: ship(2) // 22-28 Fall (Caroline 2 hearts) // Y1: Bulletin Board, ship: Green Tea
+Tea Leaves: ship(2) // 22-28 Fall (Caroline 2 hearts = Bulletin Board), ship: Green Tea
 Battery Pack: ship, craft(7+5) // Skull/Lightning Rod // Y1: Fall 14, need 5 for boat repair
 
 Duck: Egg (13 days) // bundle, ship(2) // Y1: skip animal bundle, ship: Mayo
@@ -241,7 +247,7 @@ Perwinkle: catch, bundle, cook(2) // River
 
 Winter
 ------
-// Festival of Ice (8 Winter) // Y1: buy rarecrow (5kg)
+// Festival of Ice (8 Winter) // Y2: buy rarecrow (5kg)
 // Night Market (15-17 Winter) // Y1: submarine fishing
 // Feast of the Winter Star (25 Winter) // Y1: 5x Friendship secret santa (18 Winter)
 
@@ -268,6 +274,7 @@ Blobfish: catch // Submarine (15-17 Winter)
 
 Ginger Island
 -------------
+// Qi: 100 Golden Walnuts, start doing quests ASAP + prioritize skull/mine unlocks
 Pineapple: ship, cook
 Taro Root: ship, cook(4)
 Ginger: ship, cook(3), craft
@@ -280,8 +287,8 @@ Magma Cap: ship // Volcano
 Dragon Tooth: craft(1+10) // not shipped
 
 Stingray: catch // Pirate Cove
-Lionfish: catch // 
-Blue Discus: catch // North/West
+Lionfish: catch // West/South Ocean
+Blue Discus: catch // North/West River
 
 Non-Seasonal
 ------------
@@ -322,7 +329,7 @@ Solar Essence: bundle, ship, craft(83)
 Void Essence: bundle, ship, craft(51)
 Squid Ink: ship, cook(2)
 Bone Fragment: ship, craft(128+30) // Banana Pudding recipe
-Wood/Stone/Hardwood: ship(3), craft(...)
+Wood/Stone/Hardwood: ship(3), craft(*)
 
 Stonefish: catch // Mines(20)
 Ice Pip: catch // Mines(60)
@@ -462,7 +469,11 @@ Shipping(Ginger): Winter 16 [Mango] // Fall 17 without Community Upgrades
 Polyculture: Fall 18 [Rhubarb/Greenhouse]
 Fishing: Winter 15 [Night Market]
 Walnuts: Fall 23 [Melon] // Winter 13 average Banana/Blue Discus rng
-Cooking: 28 Winter Y2 [TV recipe]
+Cooking: 28 Winter Y2 [TV recipe] // earlier if book (50kg + 100 Golden Walnuts)
+
+Personal Best [1.6]
+-------------------
+TBD
 
 Personal Best [1.5]
 -------------------

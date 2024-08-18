@@ -1,6 +1,6 @@
 1.6 changes (original guide current for 1.5.6)
 ==============================================
-Crops: carrots (spring), squash (summer), broccoli (fall), and powdermelon (winter) # backwoods 9th of every season, racoon or rng
+Crops: carrots (spring), squash (summer), broccoli (fall), powdermelon (winter) # backwoods 9th of every season, racoon (1st quest + 1 week)
 Festivals: Desert Festival (Spring 15-17, extra buffs for skull cavern, requires bus)
 Mini-Festivals: Trout Derby (Summer 20-21) and SquidFest (Winter 12-13)
 Fish: cave/river/sea jelly, goby
@@ -18,40 +18,74 @@ skill mastery (recipes)
 
 ==============================================================================================================
 
-ginger: summer 22
-orders: done (summer 15-21)
-cinema: done? (summer 15-21)
+racoon: fall 6
+ginger: fall 12
+orders: 25 gold veges (fall 1-7)
+cinema: done (fall 1-7)
 
 friendship: resets on sunday
 community/qi orders: resets on monday
 cinema: resets on monday
+racoon: 7 days
 
-raw fruit ~1000g = ~125/day, keg triples the value in ~6 days (240/day), cask doubles value again in 56 days (~40/day)
-less ~25g (fertilizer/3 harvests) + 400g seeds
+starfruit ~575 profit/8 days = 72/day, keg 6.25 days (+340/day), cask 56 days (+40/day)
+ginger = ~600 plots, farm = ~2500 plots?
 
 ==============================================================================================================
 
-gold: 10mil // achieve
-skills: mastery // skills = achieve/perfect, mastery = recipes
-quests: help wanted, special orders // special = recipes (perfect)
-monsters: many // achieve, perfect
-stardrop: spouse, fair, museum // achieve, perfect
+powers/books: many // books = achieve
 family: spouse + 2 kids // achieve
-social: many // achieve, perfect
-cook: many // achieve, perfect
-craft: many // achieve, perfect
-fish: goby // achieve, perfect
-ship: broccoli, carrot, powdermelon, dried fruit/mushroom, raisins, smoked fish, moss, mystic syrup // achieve, perfect
-books: many // achieve
-museum: 8 artifacts, 11 minerals // achieve
-notes/scraps: many // untracked
-racoon: 0/9 // achieve
+racoon: 2/9 // achieve
+
+quests: orders // 9 recipes (perfect)
+monsters: // perfect
+stardrop: spouse, fair, museum // perfect
+social: // perfect
+cook: // perfect
+craft: // perfect
+ship: *broccoli, *powdermelon // perfect
+museum: artifacts, minerals // krobus, stardrop (perfect)
 walnuts: journal #10 // perfect
-achieves: fair
-perfect: obelisks (3mil), clock (10mil) // achieve, perfect
+rarecrow: fair, spirit, casino, ice // recipe (perfect)
+perfect: obelisks (3mil), clock (10mil) // 7mil if waived
+
+notes/scraps: many // untracked
+
+670/1000 slimes
+75/150 void spirits
+164/200 bats
+13/50 skeletons
+7/30 duggies
+280/500 dust sprites
+14/50 pepper rex
+
+Ancient Treasures: Appraisal Guide (troves)
+Book of Mysteries (boxes)
+Jewels Of The Sea (chest)
+The Alleyway Buffet (trashcan)
+The Art O' Crabbing (squidfest)
+Qi Club Card (quest)
+Special Charm (truck)
+Spring Onion Mastery (jas/vincent)
+
+Big Stone Chest (bug?)
+Warp Totem: Desert (trader)
+Hopper (qi)
+Blue Grass Starter (qi)
+Jack-O-Lantern (festival)
+Deluxe Scarecrow (festival)
+Bone Mill (order)
+Farm Computer (order)
+Geode Crusher (order)
+Mini-Obelisk (order)
+Monster Musk (order)
+Quality Bobber (order)
+Solar Panel (order)
 
 ==============================================================================================================
 
+skills: 5/5 mastery // recipes (perfect)
+fish: done // perfect
 island upgrades: 11/11 // untracked
 grandpa: 4/4 // untracked
-cc/joja: cc done, joja not started
+cc/joja: cc done, joja not started // achieve
