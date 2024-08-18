@@ -317,7 +317,7 @@ Sap: ship, craft(*)
 Fiber: ship, craft(*) // junimo huts
 Clay: ship, craft(11)
 Mystic Syrup: ship, craft (2)
-Dried Fruit/Mushroom: ship
+Dried Fruit/Mushroom: ship // dehydrator is 10kg or free with mushroom cave
 
 Mead: ship // Resort
 Beer: ship // Saloon
@@ -370,6 +370,7 @@ Dwarf Gadget: craft
 Mushroom Cave
 -------------
 // Produces 6 items daily (2-12% for non-common mushrooms)
+// Can also use Mushroom Log (L4 foraging)
 Red Mushroom: bundle(2), ship, craft
 Purple Mushroom: bundle(2), ship, craft // uncommon
 Common Mushroom: bundle(2), ship, craft, cook(3)
