@@ -1,20 +1,10 @@
 1.6 changes (original guide current for 1.5.6)
 ==============================================
-Crops: carrots (spring), squash (summer), broccoli (fall), powdermelon (winter) # backwoods 9th of every season, racoon (1st quest + 1 week)
-Festivals: Desert Festival (Spring 15-17, extra buffs for skull cavern, requires bus)
-Mini-Festivals: Trout Derby (Summer 20-21) and SquidFest (Winter 12-13)
-Fish: cave/river/sea jelly, goby
-
-Bookseller > Queen Of Sauce Cookbook: bypasses the need to wait for recipes to air (requires 100+ golden walnuts to appear)
-
 Can drive yourself to desert when Pam unavailable
 Can access clint when upgrading tools
 
 dehydrator from mushroom cave (dried fruit/mushroom, raisins)
 mushroom log = alternate source (L4 foraging)
-
-raccoon quest (10% chance after greenhouse, 100 hardwood, smoked fish == 10k gold)
-skill mastery (recipes)
 
 ==============================================================================================================
 
@@ -26,10 +16,13 @@ cinema: done (fall 1-7)
 friendship: resets on sunday
 community/qi orders: resets on monday
 cinema: resets on monday
-racoon: 7 days
+racoon: 7 days // 10% chance after greenhouse, 100 hardwood, smoked fish == 10k gold
 
 starfruit ~575 profit/8 days = 72/day, keg 6.25 days (+340/day), cask 56 days (+40/day)
-ginger = ~600 plots, farm = ~2500 plots?
+ginger = ~600 plots, farm = ~2500 plots? // 3100 plots = 50g/plot/day required for 13mil gold in 3 seasons
+strawberry = ~35/day, pumpkin = ~41/day
+
+mystic trees + heavy tappers for treasure totems
 
 ==============================================================================================================
 

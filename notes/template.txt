@@ -1,3 +1,7 @@
+Changelog
+---------
+- Items (but not route) updated for 1.6
+
 Friendship
 ----------
 liked = 45, loved = 80, 2 x gifts = 10, talk = 20, decay = -2/day (224/year, -10 dating, -20 married)
@@ -28,7 +32,9 @@ Spring
 ------
 // Y1 Rain: Legend (L10), Catfish, Eel, Shad
 // Y1: Merchant: Rare Seeds(2), Duck Feather, Rabbit Foot, Dinosaur Egg
+// Y1: Spring 9 Carrots (backwoods)
 // Spring 13 Egg Festival: buy Strawberry seeds // Y1: skip unless shipping
+// Spring 15-17 Desert Festival: chef buff stacks with food/drink for SC (requires bus)
 // Y1: Spring 15-18 Salmonberry 
 // Y1: Spring 16 plant remaining crops
 // Spring 24 Flower Dance: 250 Friendship (requires 4+ hearts) // Y1: skip, Y2: rarecrow, buy Tub o' Flowers recipe
@@ -74,6 +80,7 @@ Summer
 // Y1 Rain: Red Snapper, Eel, Shad
 // Y1: Summer 1 Starfruit (Deluxe Speed-Gro) for Luau
 // Y1: Summer 7 plant Fruit Trees 
+// Y1: Summer 9 Squash (backwoods)
 // Y1: Summer 10 start construction 
 // Summer 11 Luau: 120 global Friendship
 // Y1: Summer 12-14 Tide Pool 
@@ -92,7 +99,7 @@ Summer
 // Y1: Big Barn (Summer 20) > Wait > Deluxe Barn (Summer 24) // Equivalent to Barn on 18 Summer
 // Y1: Quality Crops(3x5/Gold): 15-20 crops with quality fertilizer (fish + sap + L9 farming) for gold bundle or 40-50 without
 
-Grape: bundle, ship, poly, craft // Y1 poly: plant starters in Fall if short
+Grape: bundle, ship(6), poly, craft // raisins, Y1 poly: plant starters in Fall if short
 Spice Berry: bundle, ship, craft
 Sweet Pea: bundle, ship, craft
 Fiddlehead Fern: bundle, ship, cook // Woods/Skull
@@ -149,7 +156,7 @@ Fall
 // Y1: Fall 4 plant Eggplant, Wheat, Sunflower, Sweet Gem Berry
 // Y1: Fall 7 Artisan Bundle > Wine
 // Y1: Fall 8-11 Blackberry
-// Y1: Fall 9 Pantry Bundles > Greenhouse
+// Y1: Fall 9 Broccoli (backwoods), Pantry Bundles > Greenhouse
 // Y1: Fall 10: Winter Seeds w/ Deluxe Speed-Gro + Agriculturalist
 // Y1: Fall 14 all remaining bundles
 // Y1: Fall 16 plant remaining crops
@@ -191,7 +198,7 @@ Cranberries: ship, poly, cook(4) // 7 days
 Ancient Fruit: bundle, ship // 28 days (Greenhouse) // Y1: Fall 17 (skip bundle)
 
 Wine: bundle(2), ship // Y1: Fall 7 // Quality Wine = Resort
-Cloth: bundle, ship // Skull // Y1: Fall 7
+Cloth: bundle, ship, craft(2) // Skull // Y1: Fall 7
 Honey: bundle, ship, craft // Oasis/Friday // Y1: Fall 7
 Tea Leaves: ship(2) // 22-28 Fall (Caroline 2 hearts = Bulletin Board), ship: Green Tea
 Battery Pack: ship, craft(7+5) // Skull/Lightning Rod // Y1: Fall 14, need 5 for boat repair
@@ -247,9 +254,11 @@ Perwinkle: catch, bundle, cook(2) // River
 
 Winter
 ------
-// Festival of Ice (8 Winter) // Y2: buy rarecrow (5kg)
-// Night Market (15-17 Winter) // Y1: submarine fishing
-// Feast of the Winter Star (25 Winter) // Y1: 5x Friendship secret santa (18 Winter)
+// Y1 Winter 9: powdermelon (backwoods)
+// Festival of Ice (Winter 8) // Y2: buy rarecrow (5kg)
+// Night Market (Winter 15-17) // Y1: submarine fishing
+// Feast of the Winter Star (Winter 25) // Y1: 5x Friendship secret santa (18 Winter)
+// SquidFest (Winter 12-13): Art O' Crabbing for 8/10 squid
 
 Holly: ship // Y1: Winter 1 (last pre-ginger shipping item)
 
@@ -284,7 +293,7 @@ Ostrich Egg: ship // Journal #10 // Y1: only need 1
 Radioactive Ore/Bar: ship(2), craft(2/2) // Challenge
 Cinder Shard: ship, craft(20) // Volcano
 Magma Cap: ship // Volcano
-Dragon Tooth: craft(1+10) // not shipped
+Dragon Tooth: craft(1+15) // not shipped
 
 Stingray: catch // Pirate Cove
 Lionfish: catch // West/South Ocean
@@ -304,9 +313,11 @@ Garlic: ship, poly, craft(10), cook(2) // 4 days // Y1: Merchant/drop rng
 Coconut: ship, bundle, cook(3), craft(1+10) // Desert/Ginger Island
 Cactus Fruit: ship, bundle, craft(10) // Desert
 Cave Carrot: ship, bundle, cook(5)
-Sap: ship, craft(81)
-Fiber: ship, craft(279) // junimo huts
-Clay: ship, craft(9)
+Sap: ship, craft(*)
+Fiber: ship, craft(*) // junimo huts
+Clay: ship, craft(11)
+Mystic Syrup: ship, craft (2)
+Dried Fruit/Mushroom: ship
 
 Mead: ship // Resort
 Beer: ship // Saloon
@@ -314,12 +325,12 @@ Void Egg: ship
 Void Mayo: ship, cook
 
 Coal: ship, craft(95) // smelting, bombs
-Copper Ore/Bar: ship(2), craft(28/16)
-Iron Ore/Bar: ship(2), craft(4/37) // bombs
-Gold Ore/Bar: ship(2), craft(4/29)
-Iridium Ore/Bar: ship(2), craft(5/17+45)
-Quartz/Fire Quartz: bundle(2), craft(0/1) // not shipped
-Refined Quartz: ship, craft(25) // Solar Panel, Lightning Rod, Quality Sprinkler
+Copper Ore/Bar: ship(2), craft(28/18)
+Iron Ore/Bar: ship(2), craft(4/104) // bombs
+Gold Ore/Bar: ship(2), craft(4/39)
+Iridium Ore/Bar: ship(2), craft(5/87)
+Quartz/Fire Quartz: bundle(2), craft(0/2) // not shipped
+Refined Quartz: ship, craft(27) // Solar Panel, Lightning Rod, Quality Sprinkler
 Prismatic Shard: bundle, ship // other non-crafting uses
 
 Bug Meat: ship, craft(44)
@@ -328,8 +339,9 @@ Bat Wing: bundle, ship, craft(40)
 Solar Essence: bundle, ship, craft(83)
 Void Essence: bundle, ship, craft(51)
 Squid Ink: ship, cook(2)
-Bone Fragment: ship, craft(128+30) // Banana Pudding recipe
+Bone Fragment: ship, craft(161) // Banana Pudding recipe
 Wood/Stone/Hardwood: ship(3), craft(*)
+Moss: ship(1), craft(402)
 
 Stonefish: catch // Mines(20)
 Ice Pip: catch // Mines(60)
@@ -340,6 +352,8 @@ Green Algae: catch, cook(5) // Anywhere
 White Algae: catch, cook(2) // Mines/Sewers
 Mutant Carp: catch // Sewers
 Slimejack: catch // Mutant Bug Lair
+Cave/River/Sea Jelly: catch, craft(1)
+Goby: catch // Waterfall
 
 ==============================================================================================================
 
@@ -347,7 +361,7 @@ Crafting (Not shipped)
 ----------------------
 Diamond: craft(3) 
 Frozen Tear: craft(10) 
-Acorn/Maple Seed/Pine Cone: craft
+Acorn/Maple Seed/Pine Cone/Mahogony: craft(6/6/6/5)
 Marble: craft
 Aquamarine: bundle, craft
 Earth Crystal: craft(11)
@@ -469,7 +483,7 @@ Shipping(Ginger): Winter 16 [Mango] // Fall 17 without Community Upgrades
 Polyculture: Fall 18 [Rhubarb/Greenhouse]
 Fishing: Winter 15 [Night Market]
 Walnuts: Fall 23 [Melon] // Winter 13 average Banana/Blue Discus rng
-Cooking: 28 Winter Y2 [TV recipe] // earlier if book (50kg + 100 Golden Walnuts)
+Cooking: 28 Winter Y2 [TV recipe] // earlier if Queen Of Sauce Cookbook (50kg + 100 Golden Walnuts)
 
 Personal Best [1.6]
 -------------------
