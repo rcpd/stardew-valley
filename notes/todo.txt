@@ -1,11 +1,11 @@
-racoon: fall 14
+racoon: fall 21
 ginger: fall 21
-orders: ghost (fall 8-14)
-qi: mines (fall 8-14)
-cinema: done (fall 8-14)
-social: 0/2 (fall 14-20)
+orders: done (fall 15-21) // qi: done
+social: 2/2 // krobus winter 1, wizard winter 17, harvey/seb
 casks: 185 (152+33) winter 6-19
-kegs: 200 (100+100) 
+kegs: 273 
+
+monster: 39/50 pepper rex // perfect
 
 ~2.8mil wine + ~2mil fruit in 6 weeks @ 650 plots/200 kegs
 ~1mil wine + ~750k fruit stored + ~1.1mil cellar + 3.6mil cash
@@ -16,8 +16,6 @@ community/qi orders: resets on monday
 cinema: resets on monday (9am-9pm)
 racoon: 7 days // 10% chance after greenhouse, 100 hardwood, smoker/dehydrator = 10kg
 
-expand oak farms + heavy tappers + buy mats for kegs?
-
 starfruit ~575 profit/8 days = 72/day, keg 6.25 days (+340/day), cask 56 days (+40/day)
 ginger = ~650 plots, farm = ~2750 plots // strawberry = ~35/day, pumpkin = ~41/day
 keg = 4kg blacksmith mats, 12 day payback time
@@ -26,36 +24,26 @@ keg = 4kg blacksmith mats, 12 day payback time
 
 powers/books: many // books = achieve
 family: spouse + 2 kids // achieve
-racoon: 2/9 // achieve
+racoon: 4/9 // achieve
 
 quests: orders // 9 recipes (perfect)
 monsters: // perfect
-stardrop: spouse, fair, museum // perfect
+stardrop: spouse, museum // perfect
 social: // perfect
 cook: // perfect
 craft: // perfect
 museum: artifacts, minerals // krobus, stardrop (perfect)
 walnuts: journal #10 // perfect
-rarecrow: fair, spirit, casino, ice // recipe (perfect)
+rarecrow: spirit, casino, ice // recipe (perfect)
 perfect: obelisks (3mil), clock (10mil) // 2mil (4%) + 5mil (10%) if waived
 
-notes/scraps: // untracked
+notes/scraps: 2 ginger // untracked, collect rewards
 
-823/1000 slimes
-44/50 skeletons
-7/30 duggies
-14/50 pepper rex
-
-Big Stone Chest (bug?)
-Warp Totem: Desert (trader)
-Hopper (qi)
-Blue Grass Starter (qi)
+Big Stone Chest (dwarf)
 Jack-O-Lantern (festival)
 Deluxe Scarecrow (festival)
 Bone Mill (order)
 Farm Computer (order)
-Geode Crusher (order)
-Mini-Obelisk (order)
 Monster Musk (order)
 Quality Bobber (order)
 Solar Panel (order)
@@ -65,8 +53,6 @@ Book of Mysteries (boxes)
 Jewels Of The Sea (chest)
 The Alleyway Buffet (trashcan)
 The Art O' Crabbing (squidfest)
-Qi Club Card (quest)
-Special Charm (truck)
 Spring Onion Mastery (jas/vincent + spring)
 
 ==============================================================================================================

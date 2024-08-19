@@ -161,6 +161,7 @@ Fall
 // Y1: Fall 14 all remaining bundles
 // Y1: Fall 16 plant remaining crops
 // Fall 16 Stardew Valley Fair // Y2: buy stardrop (2000), rarecrow (800)
+// Fair: 6 categories, 9 slots, 4+ point avg, fish/gamble 40% on green for tokens
 // Y1: Fall 17 plant fruit trees > Ginger Island
 // Fall 27 Spirit's Eve // Y2: buy Jack-O-Lantern recipe, rarecrow
 // Y1: Quality Crops(3x5/Gold): 15-20 crops with quality fertilizer (fish + sap + L9 farming) for gold bundle or 40-50 without
