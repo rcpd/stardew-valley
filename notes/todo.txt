@@ -1,49 +1,42 @@
-racoon: fall 21
-ginger: fall 21
-orders: done (fall 15-21) // qi: done
-social: 2/2 // krobus winter 1, wizard winter 17, harvey/seb
+racoon: fall 28
+ginger: winter 1
+orders: done (fall 22-28) // qi: done
+social: 2/2 (fall 21-27)
 casks: 185 (152+33) winter 6-19
-kegs: 273 
-
-monster: 39/50 pepper rex // perfect
-
-~2.8mil wine + ~2mil fruit in 6 weeks @ 650 plots/200 kegs
-~1mil wine + ~750k fruit stored + ~1.1mil cellar + 3.6mil cash
-~2mil pumpkins left to harvest = ~13mil + other winter earnings
+kegs: 285 
 
 friendship: resets on sunday
-community/qi orders: resets on monday
-cinema: resets on monday (9am-9pm)
+community: resets on monday
 racoon: 7 days // 10% chance after greenhouse, 100 hardwood, smoker/dehydrator = 10kg
 
 starfruit ~575 profit/8 days = 72/day, keg 6.25 days (+340/day), cask 56 days (+40/day)
 ginger = ~650 plots, farm = ~2750 plots // strawberry = ~35/day, pumpkin = ~41/day
 keg = 4kg blacksmith mats, 12 day payback time
 
+24 Fall: ~600k fruit, ~200k keg, ~1.1m cellar, ~2.4mil wine, ~4.2mil cash = ~8.5 mil
+Future: ~3.2m wine, ~1.5m fruit, ~1.2mil pumpkin = ~14.4mil
+
 ==============================================================================================================
 
 powers/books: many // books = achieve
 family: spouse + 2 kids // achieve
-racoon: 4/9 // achieve
+racoon: 5/9 // achieve
 
-quests: orders // 9 recipes (perfect)
-monsters: // perfect
+quests: 8 orders, 5 recipes // recipes (perfect)
 stardrop: spouse, museum // perfect
-social: // perfect
+social: // perfect, book + mastery buff can speed this up
 cook: // perfect
-craft: // perfect
-museum: artifacts, minerals // krobus, stardrop (perfect)
-walnuts: journal #10 // perfect
+craft: 6 unknown // perfect
+museum: 2 minerals > 7 artifacts // krobus, stardrop (perfect)
+walnuts: journal #10 // perfect, 116/130 for unlocks (parrot: 10kg ea/1.3mil all)
 rarecrow: spirit, casino, ice // recipe (perfect)
-perfect: obelisks (3mil), clock (10mil) // 2mil (4%) + 5mil (10%) if waived
+perfect: obelisks (3mil), clock (10mil) // 2mil (4%) + 5mil (10%) if waived (500k/1%)
 
 notes/scraps: 2 ginger // untracked, collect rewards
 
-Big Stone Chest (dwarf)
 Jack-O-Lantern (festival)
 Deluxe Scarecrow (festival)
 Bone Mill (order)
-Farm Computer (order)
 Monster Musk (order)
 Quality Bobber (order)
 Solar Panel (order)
@@ -60,4 +53,5 @@ Spring Onion Mastery (jas/vincent + spring)
 ship: done // perfect
 skills: 5/5 mastery // recipes (perfect), forage xp = tree farm in desert or train stop
 fish: done // perfect
+monsters: done // perfect (monster musk can speed this up)
 island upgrades: 11/11 // untracked

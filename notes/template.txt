@@ -41,8 +41,8 @@ Spring
 // profit: Strawberry (Egg Festival) > Rhubarb (Oasis) > Cauliflower
 
 Wild Horseradish: bundle, ship, craft, cook
-Daffodil: bundle, ship, craft
-Leek: bundle, ship, craft, cook
+Daffodil: bundle, ship, craft // Sandy
+Leek: bundle, ship, craft, cook // George
 Dandelion: bundle, ship, craft, cook
 Spring Onion: ship
 Salmonberry: ship
@@ -160,8 +160,7 @@ Fall
 // Y1: Fall 10: Winter Seeds w/ Deluxe Speed-Gro + Agriculturalist
 // Y1: Fall 14 all remaining bundles
 // Y1: Fall 16 plant remaining crops
-// Fall 16 Stardew Valley Fair // Y2: buy stardrop (2000), rarecrow (800)
-// Fair: 6 categories, 9 slots, 4+ point avg, fish/gamble 40% on green for tokens
+// Fall 16 Stardew Valley Fair // Y2: buy stardrop (2000), rarecrow (800), fish/gamble 40% on green for tokens
 // Y1: Fall 17 plant fruit trees > Ginger Island
 // Fall 27 Spirit's Eve // Y2: buy Jack-O-Lantern recipe, rarecrow
 // Y1: Quality Crops(3x5/Gold): 15-20 crops with quality fertilizer (fish + sap + L9 farming) for gold bundle or 40-50 without
@@ -286,10 +285,10 @@ Ginger Island
 -------------
 // Qi: 100 Golden Walnuts, start doing quests ASAP + prioritize skull/mine unlocks
 Pineapple: ship, cook
-Taro Root: ship, cook(4)
+Taro Root: ship, cook(4) // 100 for community order, trade Bone Fragments
 Ginger: ship, cook(3), craft
 Banana: ship, cook, craft(10)
-Mango: ship, cook
+Mango: ship, cook // Leo
 Ostrich Egg: ship // Journal #10 // Y1: only need 1
 Radioactive Ore/Bar: ship(2), craft(2/2) // Challenge
 Cinder Shard: ship, craft(20) // Volcano
@@ -315,7 +314,7 @@ Coconut: ship, bundle, cook(3), craft(1+10) // Desert/Ginger Island
 Cactus Fruit: ship, bundle, craft(10) // Desert
 Cave Carrot: ship, bundle, cook(5)
 Sap: ship, craft(*)
-Fiber: ship, craft(*) // junimo huts
+Fiber: ship, craft(*) // Junimo Huts
 Clay: ship, craft(11)
 Mystic Syrup: ship, craft (2)
 Dried Fruit/Mushroom: ship // dehydrator is 10kg or free with mushroom cave
@@ -342,7 +341,7 @@ Void Essence: bundle, ship, craft(51)
 Squid Ink: ship, cook(2)
 Bone Fragment: ship, craft(161) // Banana Pudding recipe
 Wood/Stone/Hardwood: ship(3), craft(*)
-Moss: ship(1), craft(402)
+Moss: ship(1), craft(402) // always collect this
 
 Stonefish: catch // Mines(20)
 Ice Pip: catch // Mines(60)
@@ -504,6 +503,25 @@ Y2/Spring 4: Polyculture
 Y2/Spring 4: Fishing
 
 ==============================================================================================================
+
+Trees
+-----
+
+Fruit trees require 3x3 clear space with no obstructions (can't plant too close):
+
+---------
+-F--F--F-
+---------
+---------
+-F--F--F-
+---------
+
+Non-fruit trees are only obstructed by other mature trees (base) in adjacent space (will grow to stage 4 then stop)
+but can be placed adjacent to water, walls, etc while sharing the "free" space:
+
+T-T-T-T-T
+---------
+T-T-T-T-T
 
 Scarecrow/Sprinkler Pattern
 ---------------------------
