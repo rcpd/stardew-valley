@@ -1,57 +1,39 @@
-racoon: fall 28
-ginger: winter 1
-orders: done (fall 22-28) // qi: done
-social: 2/2 (fall 21-27)
-casks: 185 (152+33) winter 6-19
-kegs: 285 
-
-friendship: resets on sunday
-community: resets on monday
-racoon: 7 days // 10% chance after greenhouse, 100 hardwood, smoker/dehydrator = 10kg
-
-starfruit ~575 profit/8 days = 72/day, keg 6.25 days (+340/day), cask 56 days (+40/day)
-ginger = ~650 plots, farm = ~2750 plots // strawberry = ~35/day, pumpkin = ~41/day
-keg = 4kg blacksmith mats, 12 day payback time
-
-24 Fall: ~600k fruit, ~200k keg, ~1.1m cellar, ~2.4mil wine, ~4.2mil cash = ~8.5 mil
-Future: ~3.2m wine, ~1.5m fruit, ~1.2mil pumpkin = ~14.4mil
+orders: todo (winter 8-14)
+ice: winter 8
+squid: winter 12
+racoon: winter 14
+ginger: winter 9
+casks: winter 19
+note: winter 15, mermaid, 1-5-4-2-3 // #15
+note: winter 28, noon, playground // #13
 
 ==============================================================================================================
 
-powers/books: many // books = achieve
+powers/books: squidfest, spring // books = achieve
 family: spouse + 2 kids // achieve
-racoon: 5/9 // achieve
+racoon: 7/9 // achieve
 
-quests: 8 orders, 5 recipes // recipes (perfect)
-stardrop: spouse, museum // perfect
-social: // perfect, book + mastery buff can speed this up
-cook: // perfect
-craft: 6 unknown // perfect
-museum: 2 minerals > 7 artifacts // krobus, stardrop (perfect)
-walnuts: journal #10 // perfect, 116/130 for unlocks (parrot: 10kg ea/1.3mil all)
-rarecrow: spirit, casino, ice // recipe (perfect)
-perfect: obelisks (3mil), clock (10mil) // 2mil (4%) + 5mil (10%) if waived (500k/1%)
+quests: 6 orders, 3 recipes // 9 recipes (perfect)
+stardrop: spouse (6/7) // perfect
+craft: 3 orders // perfect
 
-notes/scraps: 2 ginger // untracked, collect rewards
+perfect: 4/4 obelisks (3mil), clock (10mil) // 2mil (4%) + 5mil (10%) if waived (500k/1%)
 
-Jack-O-Lantern (festival)
-Deluxe Scarecrow (festival)
 Bone Mill (order)
 Monster Musk (order)
-Quality Bobber (order)
 Solar Panel (order)
 
-Ancient Treasures: Appraisal Guide (troves)
-Book of Mysteries (boxes)
-Jewels Of The Sea (chest)
-The Alleyway Buffet (trashcan)
 The Art O' Crabbing (squidfest)
 Spring Onion Mastery (jas/vincent + spring)
 
 ==============================================================================================================
 
-ship: done // perfect
+ship: all // perfect
+fish: all // perfect
+cook: all // perfect
+rarecrow: 8/8 // recipe (perfect)
+museum: minerals, artifacts // krobus, stardrop (perfect)
+social: all max (8/10 dateable) // perfect, book + mastery buff can speed this up
+monsters: all // perfect (monster musk can speed this up)
+walnuts: 130 // perfect, 116 for unlocks (parrot: 10kg ea/1.3mil all)
 skills: 5/5 mastery // recipes (perfect), forage xp = tree farm in desert or train stop
-fish: done // perfect
-monsters: done // perfect (monster musk can speed this up)
-island upgrades: 11/11 // untracked
